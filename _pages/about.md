@@ -113,12 +113,11 @@ redirect_from:
  <a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>
  
  **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu*, and Yan-Jun Liu*
+ 
 Main work：
 - A distributed cloud-fog computing cooperative scheme for the heterogeneous swarm.
 - Cross-domain security cooperative control method under DoS attack.
 - Highlight the aggregation–dispersion properties of the swarm.
-
-
 </div>
 </div>
 
