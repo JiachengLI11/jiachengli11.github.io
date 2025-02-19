@@ -56,17 +56,17 @@ redirect_from:
 
 **Finished/Submitted**
 12. **Jiacheng Li**,  Jason J. R. Liu, et al,  &quot; Cyber-Security of Networked Control Systems: Recent Advances and Future Trends </a>,&quot; 2025. </a>
-11. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot; Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical </a>,&quot; 2025.    </a>
-10. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot; Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks </a>,&quot; 2024.    </a>
-9. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, et al,  &quot; Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy </a>,&quot; 2024.    </a>
-8. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu, C. L. Philip Chen, and James Lam,  &quot; Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks </a>,&quot; 2024.    </a>
-7. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, and  James Lam,  &quot; Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control</a>,&quot; 2024.  </a>
-6. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, and James Lam, &quot; Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions</a>,&quot; 2023.   </a>
-5. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot; Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach</a>,&quot; 2024.   </a>
-4. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot; Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; 2024.   </a>
-3. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;  Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults</a>,&quot; 2024.  </a>
-2. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;  Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft</a>,&quot; 2024.  </a>
-1. Jason J. R. Liu, <strong>Jiacheng Li</strong>, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot; Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach</a>,&quot; 2023.   </a>
+11. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot; Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
+10. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot; Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
+9. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, et al,  &quot; Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
+8. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu, C. L. Philip Chen, and James Lam,  &quot; Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
+7. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, and  James Lam,  &quot; Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
+6. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, and James Lam, &quot; Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
+5. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot; Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
+4. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot; Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints,&quot; 2024.
+3. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;  Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults,&quot; 2024. 
+2. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;  Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft,&quot; 2024.  
+1. Jason J. R. Liu, <strong>Jiacheng Li</strong>, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot; Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
 **Journal Papers**
