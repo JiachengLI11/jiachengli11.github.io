@@ -82,7 +82,10 @@ redirect_from:
 
 
 **Conference Papers**
-
+3. **Jiacheng Li**, Wenjun Luo,  Jason J. R. Liu, and James Lam, &quot; Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability </a>,&quot; <i>37th Chinese Control and Decision Conference (CCDC)</i>, 2025. (Accepted/In press)(EI)</a>
+2. **Jiacheng Li**, Yangwang Fang*, Shuaiqi Huangfu, Mengjie Zeng, Guangyu Yang, and Tianbo Deng, &quot; <a class="dhtgD aw5Odc" href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_434" target="_blank">Affine Formation Obstacle Avoidance Control of Unmanned Aerial Vehicles with Prescribed Convergence Time </a>,&quot; <i>International Conference on Guidance, Navigation and Control (ICGGNC)</i>, 2022, DOI: https://doi.org/10.1007/978-981-19-6613-2_434. (EI)</a>
+1. **Jiacheng Li**, Wei Lu*, Yankai Li, Mengjie Zeng, Ling Wang, Yongnian Zhang, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9326587/authors#authors" target="_blank">Tractor Steering Teleoperation Control with Fuzzy PID Algorithm based on Delay Time Measurement with Timestamp</a>,&quot; <i>Chinese Automation Congress (CAC)</i>, 2020, DOI: 10.1109/CAC51589.2020.9326587.  (EI)</a>
+ 
 
 **Cooperative Papers**
 
