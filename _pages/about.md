@@ -107,27 +107,29 @@ redirect_from:
 **Highlight Works**
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<a class="dhtgD aw5Odc" href="https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CAA/JAS 2022</div><img src='images/robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<a class="dhtgD aw5Odc" href="https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
+Main work：
+- Dual-Mode Driving Control Method
+- Novel Unmanned Tractor
 </div>
 </div>
 
