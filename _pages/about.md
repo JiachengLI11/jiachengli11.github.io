@@ -133,7 +133,7 @@ Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
 Main works：
 - Dual-mode control method with unmanned driving and teleoperation.
-- Novel driving platform of autonomous Tractor.
+- Novel driving platform of autonomous tractor.
 </div>
 </div>
 
