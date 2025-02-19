@@ -72,7 +72,7 @@ redirect_from:
 
 
 **Journal Papers**
-8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu*, and C. L. Philip Chen, &quot; Collision-Free Cooperation for UAV Swarm based on Parallel Control </a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, 2024. (<strong>Top, SCI, Q1</strong>) (Accepted/In press) 
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu*, and C. L. Philip Chen, &quot; Collision-Free Cooperation for UAV Swarm based on Parallel Control,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, 2024. (<strong>Top, SCI, Q1</strong>) (Accepted/In press) 
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu*, and Yan-Jun Liu*, &quot; <a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, 2024,  DOI: 10.1109/TNSE.2024.3409900. (<strong>SCI, Q1</strong>)  
 6. **Jiacheng Li**, Jason J. R. Liu*, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;  <a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, 2024.  DOI: 10.1016/j.jfranklin.2024.107019. (<strong>SCI, JCR Q1</strong>) 
 5. **Jiacheng Li**,  Junmin Liu, Shuaiqi Huangfu, Guoyan Cao*, and Dengxiu Yu*, &quot; <a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S0307904X22006114" target="_blank">Leader-follower Formation of Light-weight UAVs with Novel Active Disturbance Rejection Control</a>,&quot; <i>Applied Mathematical Modelling</i>, 2022, DOI: https://doi.org/10.1016/j.apm.2022.12.032. (<strong>Top, SCI, Q1</strong>)   
@@ -129,7 +129,7 @@ Main works：
 
 <a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
 
-Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
+Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
 Main works：
 - Dual-mode control method with unmanned driving and teleoperation.
