@@ -44,6 +44,7 @@ redirect_from:
 		 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 I started my research visit to HKU, hosted by Prof. James Lam.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
 - *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
@@ -182,7 +183,7 @@ Main works：
 
 
 # 💬 Random Thoughts
-- The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">(Intelligent Robot Laboratory)</a>  (<a href="https://www.njaurobot.cn/student2/lijiacheng.html">https://www.njaurobot.cn/student2/lijiacheng.html</a>).
+- The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
 
 
 
