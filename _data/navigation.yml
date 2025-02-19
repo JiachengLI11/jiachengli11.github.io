@@ -19,7 +19,7 @@ main:
     url: "/#-publications"
 
   - title: "Project"
-    url: "/#-project"
+    url: "/#-project-experience"
 
   - title: "Services"
     url: "/#-review-services" 
