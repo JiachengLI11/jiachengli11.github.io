@@ -37,14 +37,18 @@ redirect_from:
 - *2025.01-present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu.
 
+# 🔅 Research Interests
+- Networked System Control: Swarm Intelligence, Swarm Security Control,  Cyber-Physical System (CPS), Multi-Agent System (MAS).
+- Robotic System Control: Robot Sensing Detection and Control Application, Teleoperation. 
+		 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
-- *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
-- *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
-- *2023.10*: &nbsp;🎉 I am invited to be a reviewer for International Journal of Aerospace Engineering and Franklin Open.
-- *2023.09*: &nbsp;🎉 Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
-- *2023.08*: &nbsp;🎉 I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
+- *2024.06*: &nbsp; Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
+- *2024.05*: &nbsp; Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
+- *2024.04*: &nbsp; Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
+- *2023.10*: &nbsp; I am invited to be a reviewer for International Journal of Aerospace Engineering and Franklin Open.
+- *2023.09*: &nbsp; Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
+- *2023.08*: &nbsp; I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
 
 
  
