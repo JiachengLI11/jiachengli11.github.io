@@ -126,7 +126,7 @@ Main works：
 <div class='paper-box-text' markdown="1">
 
 
-<a class="dhtgD aw5Odc" href="[https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9](https://ieeexplore.ieee.org/document/10007919)" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
+<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
 
 Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
