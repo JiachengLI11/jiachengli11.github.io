@@ -54,8 +54,19 @@ redirect_from:
  
 # 📝 Publications 
 
+**Finished/Submitted**
+
+
 **Journal Papers**
 
+**Conference Papers**
+
+
+**Cooperative Papers**
+
+**Patents**
+
+**Highlight Works**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -75,6 +86,17 @@ redirect_from:
 
 # 📄 Project Experience
 
+- *2024.05-Present*: Research on Intelligent Navigation and Control Technology for Hydrogen-Powered Unmanned Aerial Vehicles, <i>Shenzhen Science and Technology Program: Shenzhen-Hong Kong-Macao Science and Technology Program (Category C)</i>, Main participant.
+- *2024.05-Present*: Analysis and Large-Scale Control of Interconnected Positive Systems: Applications in Multi-Agent Coordination, <i>Macao Science and Technology Development Fund Research and Innovation Grant</i>, Main participant.
+- *2023.12-Present*: Enhancement of Cyber-Physical Systems: Research on Safety Estimation and Control Strategies, <i>Macao Science and Technology Development Fund Innovation and Technology Promotion Scheme</i>, Main participant.
+- *2024.01-Present*: Development of a Co-Design Framework for Control and Communication in Networked Autonomous Systems, <i>Multi-year Research Grant Collaborative Research of the University of Macau</i>, Main participant.
+- *2024.01-2024.08*: Theory and Control Methods for Collaborative Navigation of Air-Ground Unmanned Swarms under Weak Information Conditions, National Natural Science Foundation (Key Project), Participant.
+- *2023.01-2023.07*: Coordinated Control of Unmanned Underwater Vehicles (UUV) Swarm, <i>The 705th Research Institute of China Shipbuilding Industry Corporation</i>, Student in charge.
+- *2021.12-2022,12*: Research on the UAV Autonomous Capability Assessment System, <i>Air Force Engineering University</i>, Main participant.
+- *2020.10-2021.12*: Development of UAV Formation Collaborative Flight Control Simulation System, <i>Xidian University</i>, Main participant.
+- *2020.10-2021.05*: Research on System Resilience Assessment Technology, <i>AVIC Chengdu Flight Design Institute (611)</i>, Main participant.
+- *2018.05-2019.05*: Design of Tractor Teleoperating System based on the Cloud Platform, <i>Nanjing Agricultural University Student Scientific Research Training (SRT) Project</i>, Student in charge.
+ 
 
 # 🎖 Honors and Awards
 - *2023.10* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
