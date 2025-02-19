@@ -188,4 +188,13 @@ Main works：
 - *2020.09* The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
 
 
-
+<div id="footer">
+	<div id="footer-text"></div>
+</div>
+	<center>© Jiacheng LI | Last updated: 02/2025</center>
+    <!--<center>© Jiacheng LI
+    	<script type="text/javascript" language="javascript">
+    	if (Date.parse(document.lastModified) != 0) document.write(" | Last updated: " + document.lastModified);</script>
+    </center>-->
+</div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=160&t=n&d=7XhFmBhcg-K_Sr5-Skm06Ck_kGRyQyKUhIPpxjbE2Os&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
