@@ -94,13 +94,16 @@ redirect_from:
 1. 曾梦洁, 李舜酩*, 李冉冉, <strong>李家诚</strong>, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://kns.cnki.net/kcms2/article/abstract?v=QGW0A_jem_m5tiw3moE9Oa57KrkXAoLaTupyMRCwTuIpadKPM-oF6Kuu3yPBIdzNPUzXkvP4q6l9sq8uVvgrdxl8CPd16oe8-OV16GDnEr_qSUI-ZRbwX_xwH44ogsh6U5X2WspLPxQ=&uniplatform=NZKPT&language=CHS" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法 </a>,&quot; <i>轴承</i>, 2022.     
  
 
-
-
-
-
+ 
 
 **Patents**
+4. 刘锦荣, 周文杰, <strong>李家诚</strong>, James Lam, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted).   
+3. 方洋旺, <strong>李家诚</strong>, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Authorized) (First inventor is tutor). 
+2. 卢伟, <strong>李家诚</strong>, "一种基于多驾驶模式切换的无人车辆控制方法"</a>,  CN Patent：202010438526 .3 (Published, under review) (First inventor is tutor).   
+1. 卢伟, <strong>李家诚</strong>, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法"</a>,  CN Patent: CN 11348243 (Published) (First inventor is tutor).    
 
+
+	  
 **Highlight Works**
 
 
