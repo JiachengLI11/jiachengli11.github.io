@@ -103,12 +103,27 @@ redirect_from:
 - *2020.06* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
 - *2020.01* Over 10 awards in robotics competitions at the provincial level and above.
 
+
+
 #  📚 Review-services
+**Active Journal Reviewer for**
+- Neurocomputing 
+- Defence Technology  
+- International Journal of Aerospace Engineering 
+- Transactions of the Institute of Measurement and Control 
+- Mathematical Modelling and Control 
+- Franklin Open
+  
+**Conference Reviewer for**
+- Chinese Automation Congress, 2021-2024
+
 
 #  🧑‍🎨 Assistant Supervisory
+- Final Year Projects： Jianzhang Sun, Cheng Fai Chao, UG students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>) 
+
 
 # 💬 Random Thoughts
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">(Intelligent Robot Laboratory)</a>  (<a href="https://www.njaurobot.cn/student2/lijiacheng.html">https://www.njaurobot.cn/student2/lijiacheng.html</a>).
+
 
 
