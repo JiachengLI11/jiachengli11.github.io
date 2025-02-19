@@ -37,9 +37,10 @@ redirect_from:
 - *2025.01-Present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu.
 
+
 # 🔅 Research Interests
-- Networked System Control: Swarm Intelligence, Swarm Security Control,  Cyber-Physical System (CPS), Multi-Agent System (MAS).
-- Robotic System Control: Robot Sensing Detection and Control Application, Teleoperation. 
+- **Networked System Control**: Swarm intelligence, Swarm security control,  Cyber-physical system (CPS), Multi-agent system (MAS).
+- **Robotic System Control**: Robot sensing detection and control application, Teleoperation. 
 		 
 
 # 🔥 News
@@ -114,7 +115,7 @@ redirect_from:
  
  **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu*, and Yan-Jun Liu*
  
-Main work：
+Main works：
 - A distributed cloud-fog computing cooperative scheme for the heterogeneous swarm.
 - Cross-domain security cooperative control method under DoS attack.
 - Highlight the aggregation–dispersion properties of the swarm.
@@ -129,11 +130,12 @@ Main work：
 
 Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
-Main work：
+Main works：
 - Dual-mode control method with unmanned driving and teleoperation.
 - Novel driving platform of autonomous Tractor.
 </div>
 </div>
+
 
 
 
@@ -151,6 +153,8 @@ Main work：
 - *2018.05-2019.05*: Design of Tractor Teleoperating System based on the Cloud Platform, <i>Nanjing Agricultural University Student Scientific Research Training (SRT) Project</i>, Student in charge.
  
 
+
+
 # 🎖 Honors and Awards
 - *2023.10* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020.06* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
@@ -166,13 +170,15 @@ Main work：
 - Transactions of the Institute of Measurement and Control 
 - Mathematical Modelling and Control 
 - Franklin Open
-  
+
 **Conference Reviewer for**
 - Chinese Automation Congress, 2021-2024
 
 
+
 #  🧑‍🎨 Assistant Supervisory
 - Final Year Projects：Jianzhang Sun, Cheng Fai Chao, UG students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>) 
+
 
 
 # 💬 Random Thoughts
