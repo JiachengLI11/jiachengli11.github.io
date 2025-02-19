@@ -81,11 +81,11 @@ redirect_from:
 - *2020.06* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
 - *2020.01* Over 10 awards in robotics competitions at the provincial level and above.
 
-#  📈 Review-services
+#  📚 Review-services
 
 #  🧑‍🎨 Assistant Supervisory
 
-# 💬 Random Notes
+# 💬 Random Thoughts
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
