@@ -107,13 +107,15 @@ redirect_from:
 **Highlight Works**
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE 2024</div><img src='images/CloudFogComputing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class="dhtgD aw5Odc" href="https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
-
- Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
-
+ <a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>
+ 
+ **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu*, and Yan-Jun Liu*
+Main work：
+- Dual-Mode Driving Control Method
+- Novel Unmanned Tractor
 
 
 </div>
