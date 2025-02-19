@@ -28,21 +28,26 @@ redirect_from:
  
 
 # 📖 Educations
-- *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
+- *2024.08-present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
 - *2020.09-2023.06*, Dept. of Unmanned System Research, Northwestern Polytechnical University.
 - *2016.09-2020.06*, B.E. Artificial Intelligence, Nanjing Agricultural University.
 
  
 # 💻 Work Experience
-- *2020.12-present*, Staff Engineer, Alipay Terminal Technology Department, Ant Group.
-- *2017.12-2020.12*, Researcher, Deep Learning Group, MiniEye.
-- *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
-- *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab, Tsinghua University.
+- *2025.01-present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
+- *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu.
+
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
+- *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
+- *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
+- *2023.10*: &nbsp;🎉 I am invited to be a reviewer for International Journal of Aerospace Engineering and Franklin Open.
+- *2023.09*: &nbsp;🎉 Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
+- *2023.08*: &nbsp;🎉 I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
 
+
+ 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
