@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='profile'></span>
 
 <p>
 	</p><div style="text-align:justify">I was born in Xining City, Qinghai Province, China. I obtained my B.E. degrees in <i>Automation</i> from <a href="http://ai.njau.edu.cn/#"> Department of Artificial Intelligence</a>,  <a href="http://english.njau.edu.cn/"> Nanjing Agricultural University</a> in 2020, under the supervision of <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>.
@@ -49,6 +49,10 @@ redirect_from:
 
  
 # 📝 Publications 
+
+**Journal Papers**
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
