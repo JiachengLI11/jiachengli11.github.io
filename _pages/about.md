@@ -33,7 +33,7 @@ redirect_from:
 - *2016.09-2020.06*, B.E. Artificial Intelligence, Nanjing Agricultural University.
 
  
-# 💻 Work Experience
+# 💻 Experience
 - *2025.01-present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu.
 
