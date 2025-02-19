@@ -9,7 +9,7 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Research Interests"
+  - title: "Interests"
     url: "/#-research-interests"
     
   - title: "News"
@@ -18,8 +18,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Project Experience"
-    url: "/#-project-experience"
+  - title: "Project"
+    url: "/#-project"
 
   - title: "Review Services"
     url: "/#-review-services" 
