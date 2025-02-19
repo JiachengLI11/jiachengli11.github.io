@@ -76,7 +76,7 @@ redirect_from:
 5. **Jiacheng Li**,  Junmin Liu, Shuaiqi Huangfu, Guoyan Cao*, and Dengxiu Yu*, &quot; <a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S0307904X22006114" target="_blank">Leader-follower Formation of Light-weight UAVs with Novel Active Disturbance Rejection Control</a>,&quot; <i>Applied Mathematical Modelling</i>, 2022, DOI: https://doi.org/10.1016/j.apm.2022.12.032. (<strong>Top, SCI, Q1</strong>)   
 4. **Jiacheng Li**, Yangwang Fang*, Haoyu Cheng, Zhikai Wang, and Zihao Wu, &quot; <a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9928314" target="_blank">Large-scale Fixed-wing UAV Swarm System Control with Collision Avoidance and Formation Maneuver</a>,&quot; <i>IEEE Systems Journal</i>, 2022, DOI: 10.1109/JSYST.2022.3212068 (<strong>SCI, Q2</strong>) 
 3. **Jiacheng Li**, Yangwang Fang*, Haoyu Cheng, Zhikai Wang, and Shuaiqi Huangfu,  &quot; <a class="dhtgD aw5Odc" href="https://journals.sagepub.com/doi/full/10.1177/01423312221100340" target="_blank">Unmanned Aerial Vehicle Formation Obstacle Avoidance Control Based on Light Transmission Model and Improved Artificial Potential Field</a>,&quot; <i>Transactions of the Institute of Measurement and Control</i>, 2022, DOI: https://doi.org/10.1177/01423312221100340 (<strong>SCI, Q4</strong>) 
-2. Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song, &quot;<a class="dhtgD aw5Odc" href="https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, 2022, DOI: 10.1109/JAS.2023.123072.(<strong>Top, SCI, Q1</strong>) (First author is tutor) 
+2. Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, 2022, DOI: 10.1109/JAS.2023.123072.(<strong>Top, SCI, Q1</strong>) (First author is tutor) 
 1. Dengxiu Yu, **Jiacheng Li**, Zhen Wang and Xuelong Li*, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/abstract/document/10247627" target="_blank">An Overview of Swarm Coordinated Control</a>,&quot; <i>IEEE Transactions on Artificial Intelligence</i>, 2023, DOI: 10.1109/TAI.2023.3314581.(First author is tutor) 
  
 
@@ -125,7 +125,7 @@ Main work：
 <div class='paper-box-text' markdown="1">
 
 
-<a class="dhtgD aw5Odc" href="https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
+<a class="dhtgD aw5Odc" href="[https://www.ieee-jas.net/en/article/id/5af95a12-f95b-4236-a17e-e87793f5dbf9](https://ieeexplore.ieee.org/document/10007919)" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>
 
 Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
