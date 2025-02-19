@@ -21,16 +21,16 @@ main:
   - title: "Project"
     url: "/#-project"
 
-  - title: "Review Services"
+  - title: "Services"
     url: "/#-review-services" 
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Supervisory"
-    url: "/#-supervisory"
+    url: "/#-assistant-supervisory"
 
-  - title: "Random Notes"
+  - title: "Notes"
     url: "/#-random-notes"
 
  
