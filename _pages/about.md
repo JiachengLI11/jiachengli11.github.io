@@ -114,8 +114,9 @@ redirect_from:
  
  **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu*, and Yan-Jun Liu*
 Main work：
-- Dual-Mode Driving Control Method
-- Novel Unmanned Tractor
+- A distributed cloud-fog computing cooperative scheme for the heterogeneous swarm.
+- Cross-domain security cooperative control method under DoS attack.
+- Highlight the aggregation–dispersion properties of the swarm.
 
 
 </div>
@@ -130,8 +131,8 @@ Main work：
 Wei Lu*, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 
 Main work：
-- Dual-Mode Driving Control Method
-- Novel Unmanned Tractor
+- Dual-mode control method with unmanned driving and teleoperation
+- Driving platform of autonomous Tractor
 </div>
 </div>
 
