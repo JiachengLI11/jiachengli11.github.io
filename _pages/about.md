@@ -28,13 +28,13 @@ redirect_from:
  
 
 # 📖 Educations
-- *2024.08-present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
+- *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
 - *2020.09-2023.06*, Dept. of Unmanned System Research, Northwestern Polytechnical University.
 - *2016.09-2020.06*, B.E. Artificial Intelligence, Nanjing Agricultural University.
 
  
 # 💻 Experience
-- *2025.01-present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
+- *2025.01-Present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a> Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>)
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu.
 
 # 🔅 Research Interests
@@ -43,18 +43,30 @@ redirect_from:
 		 
 
 # 🔥 News
-- *2024.06*: &nbsp; 🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
-- *2024.05*: &nbsp; 🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
-- *2024.04*: &nbsp; 🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
-- *2023.10*: &nbsp; 🎉 I am invited to be a reviewer for International Journal of Aerospace Engineering and Franklin Open.
-- *2023.09*: &nbsp; 🎉 Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
-- *2023.08*: &nbsp; 🎉 I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
+- *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
+- *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
+- *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
+- *2023.10*: &nbsp;🎉 I am invited to be a reviewer for International Journal of Aerospace Engineering and Franklin Open.
+- *2023.09*: &nbsp;🎉 Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
+- *2023.08*: &nbsp;🎉 I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
 
 
  
 # 📝 Publications 
 
 **Finished/Submitted**
+12. **Jiacheng Li**,  Jason J. R. Liu, et al,  &quot; Cyber-Security of Networked Control Systems: Recent Advances and Future Trends </a>,&quot; 2025. </a>
+11. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot; Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical </a>,&quot; 2025.    </a>
+10. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot; Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks </a>,&quot; 2024.    </a>
+9. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, et al,  &quot; Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy </a>,&quot; 2024.    </a>
+8. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu, C. L. Philip Chen, and James Lam,  &quot; Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks </a>,&quot; 2024.    </a>
+7. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, and  James Lam,  &quot; Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control</a>,&quot; 2024.  </a>
+6. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, and James Lam, &quot; Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions</a>,&quot; 2023.   </a>
+5. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot; Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach</a>,&quot; 2024.   </a>
+4. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot; Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; 2024.   </a>
+3. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;  Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults</a>,&quot; 2024.  </a>
+2. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;  Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft</a>,&quot; 2024.  </a>
+1. Jason J. R. Liu, <strong>Jiacheng Li</strong>, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot; Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach</a>,&quot; 2023.   </a>
 
 
 **Journal Papers**
