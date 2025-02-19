@@ -99,8 +99,8 @@ redirect_from:
 **Patents**
 4. 刘锦荣, 周文杰, <strong>李家诚</strong>, James Lam, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted).   
 3. 方洋旺, <strong>李家诚</strong>, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Authorized) (First inventor is tutor). 
-2. 卢伟, <strong>李家诚</strong>, "一种基于多驾驶模式切换的无人车辆控制方法"</a>,  CN Patent：202010438526 .3 (Published, under review) (First inventor is tutor).   
-1. 卢伟, <strong>李家诚</strong>, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法"</a>,  CN Patent: CN 11348243 (Published) (First inventor is tutor).    
+2. 卢伟, <strong>李家诚</strong>, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526 .3 (Published, under review) (First inventor is tutor).   
+1. 卢伟, <strong>李家诚</strong>, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法",  CN Patent: CN 11348243 (Published) (First inventor is tutor).    
 
 
 	  
