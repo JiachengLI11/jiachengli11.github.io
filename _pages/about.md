@@ -17,10 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<p>
+	</p><div style="text-align:justify">I was born in Xining City, Qinghai Province, China. I obtained my B.E. degrees in <i>Automation</i> from <a href="http://ai.njau.edu.cn/#"> Department of Artificial Intelligence</a>,  <a href="http://english.njau.edu.cn/"> Nanjing Agricultural University</a> in 2020, under the supervision of <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>.
+ I obtained my M.S. degree in <i>Electronic Information</i> with the <a href="https://wurenxitong.nwpu.edu.cn/#">Unmanned System Research Institute</a>, <a href="http://en.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2023, under the supervision of <a href="https://teacher.nwpu.edu.cn/ywfang.html">Prof. Yangwang Fang</a> and co-supervision of <a href="https://iopen.nwpu.edu.cn/info/1251/5046.htm">A/Prof. Dengxiu Yu</a>. 
+ Currently, I am pursuing a Ph.D. degree in <i>Electromechanical Engineering</i> at the <a href="https://www.fst.um.edu.mo/eme/">Department of Electromechanical Engineering</a>, <a href="https://www.um.edu.mo/">University of Macau</a>, under the supervision of <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a> and co-supervision of <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>.</div>
+<p></p>
+<p>
+        </p><div style="text-align:justify">I am interested in networked system control theories and their applications in intelligent unmanned systems. I welcome colleagues and seniors to communicate and cooperate with me, exploring exciting research together.</div>
+<p></p>
+ 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📖 Educations
+- *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
+- *2020.09-2023.06*, Dept. of Unmanned System Research, Northwestern Polytechnical University.
+- *2016.09-2020.06*, B.E. Artificial Intelligence, Nanjing Agricultural University.
 
+ 
+# 💻 Work Experience
+- *2020.12-present*, Staff Engineer, Alipay Terminal Technology Department, Ant Group.
+- *2017.12-2020.12*, Researcher, Deep Learning Group, MiniEye.
+- *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
+- *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab, Tsinghua University.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
