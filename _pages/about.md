@@ -187,4 +187,4 @@ Main works：
 - *2024.12*  I enjoy researching under <a href="https://www.fst.um.edu.mo/personal/jasonliu/"> Dr. Liu's</a> supervision; he supports my exploration of interesting studies and provides ample opportunities and assistance.
 - *2020.09* The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0c70a5&w=300&t=n&d=eZtmjnrudDbtU6b2yzt_9uzm4oucozaE5Rg2UHh4GYc&co=fdfeff&cmo=0583a8&cmn=3abccc'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0c70a5&w=109&t=n&d=eZtmjnrudDbtU6b2yzt_9uzm4oucozaE5Rg2UHh4GYc&co=fdfeff&cmo=0583a8&cmn=3abccc'></script>
