@@ -57,7 +57,7 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-12. **Jiacheng Li**,  Jason J. R. Liu, and James Lam, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
+12. **Jiacheng Li**,  Jason J. R. Liu,  James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
 11. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
 10. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
 9. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
