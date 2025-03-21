@@ -175,7 +175,7 @@ Main works：
 
 **Conference Reviewer for**
 - Chinese Automation Congress, 2021-2024
-- International Conference on Automation-Intelligence-Safety \& International Symposium on Autonomous Systems, 2025
+- International Conference on Automation-Intelligence-Safety &#38; &amp; International Symposium on Autonomous Systems, 2025
 
 
 #  🧑‍🎨 Assistant Supervisory
