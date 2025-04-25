@@ -19,7 +19,7 @@ redirect_from:
 
 <p>
 	</p><div style="text-align:justify">I was born in Xining City, Qinghai Province, China. I obtained my B.E. degrees in <i>Automation</i> from <a href="http://ai.njau.edu.cn/#"> Department of Artificial Intelligence</a>,  <a href="http://english.njau.edu.cn/"> Nanjing Agricultural University</a> in 2020, under the supervision of <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>.
- I obtained my M.S. degree in <i>Electronic Information</i> with the <a href="https://wurenxitong.nwpu.edu.cn/#">Unmanned System Research Institute</a>, <a href="http://en.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2023, under the supervision of <a href="https://teacher.nwpu.edu.cn/ywfang.html">Prof. Yangwang Fang</a> and co-supervision of <a href="https://iopen.nwpu.edu.cn/info/1015/6006.htm">Prof. Dengxiu Yu</a>. 
+ I obtained my M.S. degree in <i>Electronic Information</i> with the <a href="https://wurenxitong.nwpu.edu.cn/#">Unmanned System Research Institute</a>, <a href="http://en.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2023, under the supervision of <a href="https://teacher.nwpu.edu.cn/ywfang.html">Prof. Yangwang Fang</a> and co-supervision of <a href="https://iopen.nwpu.edu.cn/info/1015/6016.htm">Prof. Dengxiu Yu</a>. 
  Currently, I am pursuing a Ph.D. degree in <i>Electromechanical Engineering</i> at the <a href="https://www.fst.um.edu.mo/eme/">Department of Electromechanical Engineering</a>, <a href="https://www.um.edu.mo/">University of Macau</a>, under the supervision of <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a> and co-supervision of <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>.</div>
 <p></p>
 <p>
