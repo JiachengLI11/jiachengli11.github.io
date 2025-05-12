@@ -20,7 +20,7 @@ redirect_from:
 <p>
 	</p><div style="text-align:justify">I was born in Xining City, Qinghai Province, China. I obtained my B.E. degrees in <i>Automation</i> from <a href="http://ai.njau.edu.cn/#"> Department of Artificial Intelligence</a>,  <a href="http://english.njau.edu.cn/"> Nanjing Agricultural University</a> in 2020, under the supervision of <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>.
  I obtained my M.S. degree in <i>Electronic Information</i> with the <a href="https://wurenxitong.nwpu.edu.cn/#">Unmanned System Research Institute</a>, <a href="http://en.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2023, under the supervision of <a href="https://teacher.nwpu.edu.cn/ywfang.html">Prof. Yangwang Fang</a> and co-supervision of <a href="https://iopen.nwpu.edu.cn/info/1015/6016.htm">Prof. Dengxiu Yu</a>. 
- Currently, I am pursuing a Ph.D. degree in <i>Electromechanical Engineering</i> at the <a href="https://www.fst.um.edu.mo/eme/">Department of Electromechanical Engineering</a>, <a href="https://www.um.edu.mo/">University of Macau</a>, under the supervision of <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a> and co-supervision of <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>.</div>
+ Currently, I am pursuing a Ph.D. degree in <i>Electromechanical Engineering</i> at the <a href="https://www.fst.um.edu.mo/eme/">Department of Electromechanical Engineering</a>, <a href="https://www.um.edu.mo/">University of Macau</a>, under the supervision of <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>. <!--and co-supervision of <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>--></div>
 <p></p>
 <p>
         </p><div style="text-align:justify">I am interested in networked system control theories and their applications in intelligent unmanned systems. I welcome colleagues and seniors to communicate and cooperate with me, exploring exciting research together.</div>
@@ -34,7 +34,7 @@ redirect_from:
 
  
 # 💻 Experience
-- *2025.01-Present*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>). 
+- *2025.01-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
 
 
@@ -89,7 +89,7 @@ redirect_from:
  
  
 **Cooperative Papers**
-5. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints,&quot; <i>Franklin Open</i>, 2025. (Accepted/In press)
+5. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267.
 4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, <strong>Jiacheng Li</strong>, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3. (<strong>SCI, Q4</strong>) 
 3. Mengjie Zeng, Shunming Li, Ranran Li, <strong>Jiacheng Li</strong>, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023, DOI: 10.1088/1361-6501/ac8dae. (<strong>SCI, Q3</strong>) 
 2. 黄号, 马文卉, <strong>李家诚</strong>, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法 </a>,&quot; <i>清华大学学报（自然科学版）</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001. (EI) 
