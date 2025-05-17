@@ -166,6 +166,7 @@ Main works：
 #  📚 Review Services
 **Active Journal Reviewer for**
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
+- Chaos, Solitons and Fractals
 - Neurocomputing 
 - Defence Technology  
 - International Journal of Aerospace Engineering 
