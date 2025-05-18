@@ -180,8 +180,9 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
-- Final Year Projects：Jianzhang Sun, Cheng Fai Chao, UG students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>) 
-
+- Final Year Projects：Jianzhang Sun, Cheng Fai Chao, Undergraduate students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>) 
+- Final Year Projects：Tang Chak Iat, Ma Pou Hei, Undergraduate students at the University of Macau, 2025. (<i>Design, Development, and Control of a Group of Mobile Robots</i>) 
+- Final Year Projects：Wenjie Zhou, Master student at the University of Macau, 2024. (<i>Collision-Free UAV Formation Control with lmproved Artificia!Potential Field Method</i>) 
 
 
 # 💬 Random Thoughts
