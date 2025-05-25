@@ -180,10 +180,10 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
-- Final Year Projects：Jianzhang Sun, Cheng Fai Chao, Undergraduate students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>) 
-- Final Year Projects：Tang Chak Iat, Ma Pou Hei, Undergraduate students at the University of Macau, 2025. (<i>Design, Development, and Control of a Group of Mobile Robots</i>)
+- Final Year Projects：Jianzhang Sun, Cheng Fai Chao, Undergraduate students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>)
+- Final Year Projects：Tang Chak Iat, Ma Pou Hei, Undergraduate students at the University of Macau, 2025. (<i>Design, Development, and Control of a Group of Mobile Robots</i>) (Best Final Year Projects in Department of Electromechanical Engineering, University of Macau) 
 - Master Thesis：Chen Shuo, Master student at the University of Macau, 2025. (<i>Fixed-Time Neural Adaptive Control Framework for Cart-Pendulum Robotics Systems with Bias-Actuator Dynamics</i>) 
-- Master Thesis：Zhou Wenjie, Master student at the University of Macau, 2025. (<i>Collision-Free UAV Formation Control with lmproved Artificia!Potential Field Method</i>) 
+- Master Thesis：Zhou Wenjie, Master student at the University of Macau, 2025. (<i>Collision-Free UAV Formation Control with lmproved Artificia!Potential Field Method</i>) (2025 FST Best MSc Student Award, University of Macau) 
 
 
 # 💬 Random Thoughts
