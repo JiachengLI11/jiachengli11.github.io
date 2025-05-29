@@ -63,7 +63,7 @@ redirect_from:
 8. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
 7. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
 6. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu,   &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
-5. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
+5. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
 4. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
 3. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults,&quot; 2024. 
 2. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft,&quot; 2024.  
