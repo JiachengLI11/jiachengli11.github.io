@@ -66,7 +66,6 @@ redirect_from:
 5. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
 4. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
 3. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults,&quot; 2024. 
-2. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft,&quot; 2024.  
 1. Jason J. R. Liu, <strong>Jiacheng Li</strong>, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
@@ -89,6 +88,7 @@ redirect_from:
  
  
 **Cooperative Papers**
+6. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft,&quot;  <i> IEEE Transactions on Aerospace and Electronic Systems</i>, 2024. (Accepted/In press)  
 5. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267.
 4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, <strong>Jiacheng Li</strong>, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3. (<strong>SCI, Q4</strong>) 
 3. Mengjie Zeng, Shunming Li, Ranran Li, <strong>Jiacheng Li</strong>, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023, DOI: 10.1088/1361-6501/ac8dae. (<strong>SCI, Q3</strong>) 
