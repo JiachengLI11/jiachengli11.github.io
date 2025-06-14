@@ -175,6 +175,7 @@ Main works：
 - Transactions of the Institute of Measurement and Control 
 - Mathematical Modelling and Control 
 - Franklin Open
+- Drones
 
 **Conference Reviewer for**
 - Chinese Automation Congress, 2021-2024
