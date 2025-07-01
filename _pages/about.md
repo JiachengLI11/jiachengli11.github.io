@@ -57,15 +57,16 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-9. **Jiacheng Li**,  Jason J. R. Liu,  James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
-8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
-7. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
-6. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
-5. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
-4. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu,   &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
-3. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
-2. Wenjie Zhou, <strong>Jiacheng Li</strong>,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
-1. Jason J. R. Liu, <strong>Jiacheng Li</strong>, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
+10. **Jiacheng Li**,  Jason J. R. Liu,  James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
+9. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
+8. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
+7. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
+6. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
+5. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu,   &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
+4. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
+3. Wenjie Zhou, **Jiacheng Li**,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024. 
+2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, Jason J. R. Liu, and James Lam, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
+1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
 **Journal Papers**
@@ -87,22 +88,22 @@ redirect_from:
  
  
 **Cooperative Papers**
-7. Peng Cheng,  Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults,&quot;  <i> IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2025. DOI: 10.1109/TCSI.2025.3582878 (<strong>SCI, Q1</strong>)(Accepted/In press)  
-6. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft,&quot;  <i> IEEE Transactions on Aerospace and Electronic Systems</i>, 2025. DOI: 10.1109/TAES.2025.3578288 (<strong>SCI, Q1</strong>)(Accepted/In press)  
-5. Wenjie Zhou, Shuo Chen, <strong>Jiacheng Li</strong>, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267 
-4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, <strong>Jiacheng Li</strong>, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3 (<strong>SCI, Q4</strong>) 
-3. Mengjie Zeng, Shunming Li, Ranran Li, <strong>Jiacheng Li</strong>, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023. DOI: 10.1088/1361-6501/ac8dae (<strong>SCI, Q3</strong>) 
-2. 黄号, 马文卉, <strong>李家诚</strong>, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法 </a>,&quot; <i>清华大学学报（自然科学版）</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 (EI) 
-1. 曾梦洁, 李舜酩, 李冉冉, <strong>李家诚</strong>, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012 
+7. Peng Cheng,  Wenjun Luo, Chenjun Liu, **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11060578" target="_blank">Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults</a>,&quot;  <i> IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2025. DOI: 10.1109/TCSI.2025.3582878 (<strong>SCI, Q1</strong>)(Accepted/In press)  
+6. Peng Cheng, Wenjun Luo, **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11030229" target="_blank">Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft</a>,&quot;  <i> IEEE Transactions on Aerospace and Electronic Systems</i>, 2025. DOI: 10.1109/TAES.2025.3578288 (<strong>SCI, Q1</strong>)(Accepted/In press)  
+5. Wenjie Zhou, Shuo Chen, **Jiacheng Li**, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267 
+4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, **Jiacheng Li**, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3 (<strong>SCI, Q4</strong>) 
+3. Mengjie Zeng, Shunming Li, Ranran Li, **Jiacheng Li**, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023. DOI: 10.1088/1361-6501/ac8dae (<strong>SCI, Q3</strong>) 
+2. 黄号, 马文卉, **李家诚**, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法 </a>,&quot; <i>清华大学学报（自然科学版）</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 (EI) 
+1. 曾梦洁, 李舜酩, 李冉冉, **李家诚**, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012 
  
 
  
 
 **Patents**
-4. 刘锦荣, 周文杰, <strong>李家诚</strong>, James Lam, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted).   
-3. 方洋旺, <strong>李家诚</strong>, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Authorized) (First inventor is tutor). 
-2. 卢伟, <strong>李家诚</strong>, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published, under review) (First inventor is tutor).   
-1. 卢伟, <strong>李家诚</strong>, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法", CN 11348243 (Published) (First inventor is tutor).    
+4. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted).   
+3. 方洋旺, **李家诚**, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Authorized) (First inventor is tutor). 
+2. 卢伟, **李家诚**, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published, under review) (First inventor is tutor).   
+1. 卢伟, **李家诚**, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法", CN 11348243 (Published) (First inventor is tutor).    
 
 
 	  
