@@ -30,7 +30,7 @@ redirect_from:
 # 📖 Educations
 - *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
 - *2020.09-2023.06*, M.E. Dept. of Unmanned System Research, Northwestern Polytechnical University.
-- *2016.09-2020.06*, B.E. Artificial Intelligence, Nanjing Agricultural University.
+- *2016.09-2020.06*, B.E. Dept. of Artificial Intelligence, Nanjing Agricultural University.
 
  
 # 💻 Experience
