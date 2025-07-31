@@ -173,7 +173,6 @@ Main works：
 - Neurocomputing 
 - Defence Technology  
 - International Journal of Aerospace Engineering
-- International Journal of Intelligent Robotics and Applications 
 - Transactions of the Institute of Measurement and Control 
 - Mathematical Modelling and Control 
 - Franklin Open
