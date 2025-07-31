@@ -62,7 +62,7 @@ redirect_from:
 8. **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
 7. **Jiacheng Li**, Jason J. R. Liu, Zhiyuan Zhang, Zhan Shu, and James Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
 6. **Jiacheng Li**, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
-5. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu,   &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
+5. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
 4. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2023.  
 3. Wenjie Zhou, **Jiacheng Li**,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024. 
 2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, Jason J. R. Liu, and James Lam, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
