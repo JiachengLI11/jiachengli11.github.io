@@ -174,7 +174,8 @@ Main works：
 - Neurocomputing 
 - Defence Technology  
 - International Journal of Aerospace Engineering
-- Transactions of the Institute of Measurement and Control 
+- Transactions of the Institute of Measurement and Control
+- Journal of Zhejiang University-SCIENCE A
 - Mathematical Modelling and Control 
 - Franklin Open
 - Drones
