@@ -34,6 +34,7 @@ redirect_from:
 
  
 # 💻 Experience
+- *2025.08-Present*, Visiting PhD student, <a href="https://set.adelaide.edu.au/">Faculty of Sciences, Engineering and Technology</a>,  <a href="https://www.adelaide.edu.au/">The University of Adelaide</a>, Australia. (Supervisor: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>).
 - *2025.01-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Dept. of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Dept. of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
 
@@ -44,7 +45,7 @@ redirect_from:
 		 
 
 # 🔥 News
-<!-- *2025.01*: &nbsp;🎉 I started my research visit to HKU, hosted by Prof. James Lam.-->
+- *2025.08*: &nbsp;🎉 I started my research visit to Prof. Peng Shi's group.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
 - *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
