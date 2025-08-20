@@ -82,6 +82,7 @@ redirect_from:
   year={2025},<br>
   publisher={IEEE}<br>
 }</p></details>
+
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)<details> 
 <summary>Bibtex</summary><p>@article{li2024cooperative,<br>
   title={Cooperative control of air--ground swarms under DoS attacks via cloud--fog computing},<br>
@@ -93,6 +94,7 @@ redirect_from:
   year={2024},<br>
   publisher={IEEE}<br>
 }</p></details>
+
 6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) <details> 
 <summary>Bibtex</summary><p>@article{li2024event,<br>
   title={Event-based obstacle avoidance control for time-varying UAV formation under cyber-attacks},<br>
