@@ -72,7 +72,9 @@ redirect_from:
 
 
 **Journal Papers**
-8.、 **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details><summary>Bibtex</summary><p>@article{li2025collision,<br>
+8.、 **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) 
+<details><summary>Bibtex</summary>
+	<p>@article{li2025collision,<br>
   title={Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control},<br>
   author={Li, Jiacheng and Ma, Wenhui and Fang, YangWang and Yu, Dengxiu and Chen, CL Philip},<br>
   journal={IEEE/CAA Journal of Automatica Sinica},<br>
@@ -83,8 +85,8 @@ redirect_from:
   publisher={IEEE}<br>
 }</p></details>
 
-7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)<details> 
-<summary>Bibtex</summary><p>@article{li2024cooperative,<br>
+7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)<details> <summary>Bibtex</summary>
+<p>@article{li2024cooperative,<br>
   title={Cooperative control of air--ground swarms under DoS attacks via cloud--fog computing},<br>
   author={Li, Jiacheng and Yu, Dengxiu and Ma, Wenhui and Liu, Jason JR and Liu, Yan-Jun},<br>
   journal={IEEE Transactions on Network Science and Engineering},<br>
