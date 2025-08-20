@@ -82,6 +82,69 @@ redirect_from:
 }<br>
   </p></details>
 
+<style>
+  details {
+    margin: .5rem 0 1rem;
+  }
+  details > summary {
+    list-style: none;        /* 隐藏默认的 ▶ */
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .35rem .7rem;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #f6f8fa;
+    color: #24292f;
+    font-size: .9rem;
+    user-select: none;
+  }
+  details[open] > summary {
+    background: #eef6ff;
+    border-color: #84b6ff;
+  }
+  .cite-box {
+    margin-top: .5rem;
+    padding: .75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    background: #fff;
+  }
+  pre {
+    margin: 0;
+    white-space: pre-wrap; /* 小屏换行 */
+    word-break: break-word;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+</style>
+
+<ol>
+  <li>
+    <span>
+      <strong>Jiacheng Li</strong>, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen,
+      “https://ieeexplore.ieee.org/document/10946085,”
+      <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025.
+      DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)
+    </span>
+
+    <details>
+      <summary>显示引用 / BibTeX</summary>
+      <div class="cite-box">
+        <pre><code>@article{guay2023example,
+  title={An Example Paper},
+  author={Guay, Jean-Michel and Li, Jiacheng},
+  journal={Journal of Examples},
+  year={2023},
+  volume={42},
+  pages={123--456}
+}</code></pre>
+      </div>
+    </details>
+  </li>
+</ol>
+
+
 
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)  
 6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) 
