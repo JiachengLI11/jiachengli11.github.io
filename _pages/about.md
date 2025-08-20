@@ -72,7 +72,66 @@ redirect_from:
 
 
 **Journal Papers**
-8.、 **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) 
+
+<style>
+  details {
+    margin: .5rem 0 1rem;
+  }
+  details > summary {
+    list-style: none;        /* 隐藏默认的 ▶ */
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .35rem .7rem;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #f6f8fa;
+    color: #24292f;
+    font-size: .9rem;
+    user-select: none;
+  }
+  details[open] > summary {
+    background: #eef6ff;
+    border-color: #84b6ff;
+  }
+  .cite-box {
+    margin-top: .5rem;
+    padding: .75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    background: #fff;
+  }
+  pre {
+    margin: 0;
+    white-space: pre-wrap; /* 小屏换行 */
+    word-break: break-word;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+</style>
+
+<ol>
+  <li>
+    <span>
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)  <details>
+      <summary>BibTeX</summary>
+      <div class="cite-box">
+        <pre><code>@article{guay2023example,
+  title={An Example Paper},
+  author={Guay, Jean-Michel and Li, Jiacheng},
+  journal={Journal of Examples},
+  year={2023},
+  volume={42},
+  pages={123--456}
+}</code></pre>
+      </div>
+    </details>
+  </li>
+</ol>
+
+
+
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) 
 <details><summary>Bibtex</summary>
 	<p>@article{li2025collision,<br>
   title={Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control},<br>
