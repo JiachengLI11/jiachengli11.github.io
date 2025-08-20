@@ -72,124 +72,14 @@ redirect_from:
 
 
 **Journal Papers**
-<style>
-  details {
-    margin: .5rem 0 1rem;
-  }
-  details > summary {
-    cursor: pointer;
-    font-weight: bold;
-    color: #0366d6;
-  }
-  .cite-box {
-    margin-top: .5rem;
-    padding: .75rem;
-    border: 1px solid #e5e7eb;
-    border-radius: 6px;
-    background: #fff;
-  }
-  pre {
-    margin: 0;
-    white-space: pre-wrap; /* 小屏换行 */
-    word-break: break-word;
-    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  }
-</style>
-
-
-8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)  <details>
-      <summary>BibTeX</summary>
-      <div class="cite-box">
-        <pre><code>@article{li2025collision,
-  title={Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control},
-  author={Li, Jiacheng and Ma, Wenhui and Fang, YangWang and Yu, Dengxiu and Chen, CL Philip},
-  journal={IEEE/CAA Journal of Automatica Sinica},
-  volume={12},
-  number={4}, 
-  pages={761--775}, 
-  year={2025}, 
-  publisher={IEEE} 
-}</code></pre>
- 
-7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)<details>
-      <summary>BibTeX</summary>
-      <div class="cite-box">
-        <pre><code>@article{li2024cooperative, 
-  title={Cooperative control of air--ground swarms under DoS attacks via cloud--fog computing}, 
-  author={Li, Jiacheng and Yu, Dengxiu and Ma, Wenhui and Liu, Jason JR and Liu, Yan-Jun}, 
-  journal={IEEE Transactions on Network Science and Engineering}, 
-  volume={11}, 
-  number={5}, 
-  pages={4278--4292}, 
-  year={2024}, 
-  publisher={IEEE} 
-}</code></pre>
-
-6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) <details><summary>Bibtex</summary><p>@article{li2024event,<br>
-  title={Event-based obstacle avoidance control for time-varying UAV formation under cyber-attacks},<br>
-  author={Li, Jiacheng and Liu, Jason JR and Cheng, Peng and Liu, Chenjun and Zhang, Yuchen and Chen, Bo},<br>
-  journal={Journal of the Franklin Institute},<br>
-  volume={361},<br>
-  number={13},<br>
-  pages={107019},<br>
-  year={2024},<br>
-  publisher={Elsevier}<br>
-}</p></details>
-5. **Jiacheng Li**,  Junmin Liu, Shuaiqi Huangfu, Guoyan Cao, and Dengxiu Yu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S0307904X22006114" target="_blank">Leader-follower Formation of Light-weight UAVs with Novel Active Disturbance Rejection Control</a>,&quot; <i>Applied Mathematical Modelling</i>, vol. 117,  pp. 577-591, May 2023. DOI: 10.1016/j.apm.2022.12.032 (<strong>Top, SCI, Q1</strong>)   <details> 
-<summary>Bibtex</summary><p>@article{li2023leader,<br>
-  title={Leader-follower formation of light-weight UAVs with novel active disturbance rejection control},<br>
-  author={Li, Jiacheng and Liu, Junmin and Huangfu, Shuaiqi and Cao, Guoyan and Yu, Dengxiu},<br>
-  journal={Applied Mathematical Modelling},<br>
-  volume={117},<br>
-  pages={577--591},<br>
-  year={2023},<br>
-  publisher={Elsevier}<br>
-}</p></details>
-4. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Zihao Wu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9928314" target="_blank">Large-scale Fixed-wing UAV Swarm System Control with Collision Avoidance and Formation Maneuver</a>,&quot; <i>IEEE Systems Journal</i>, vol. 17, no. 1, pp. 744-755, March 2023. DOI: 10.1109/JSYST.2022.3212068 (<strong>SCI, Q2</strong>) <details> 
-<summary>Bibtex</summary><p>@article{li2022large,<br>
-  title={Large-scale fixed-wing UAV swarm system control with collision avoidance and formation maneuver},<br>
-  author={Li, Jiacheng and Fang, Yangwang and Cheng, Haoyun and Wang, Zhikai and Wu, Zihao and Zeng, Mengjie},<br>
-  journal={IEEE Systems Journal},<br>
-  volume={17},<br>
-  number={1},<br>
-  pages={744--755},<br>
-  year={2022},<br>
-  publisher={IEEE}<br>
-}</p></details>
-3. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Shuaiqi Huangfu,  &quot;<a class="dhtgD aw5Odc" href="https://journals.sagepub.com/doi/full/10.1177/01423312221100340" target="_blank">Unmanned Aerial Vehicle Formation Obstacle Avoidance Control Based on Light Transmission Model and Improved Artificial Potential Field</a>,&quot; <i>Transactions of the Institute of Measurement and Control</i>, vol. 44, no. 16, pp. 3229-3242, 2022. DOI: 10.1177/01423312221100340 (<strong>SCI, Q4</strong>) <details> 
-<summary>Bibtex</summary><p>@article{li2022unmanned,<br>
-  title={Unmanned aerial vehicle formation obstacle avoidance control based on light transmission model and improved artificial potential field},<br>
-  author={Li, Jiacheng and Fang, Yangwang and Cheng, Haoyu and Wang, Zhikai and Huangfu, Shuaiqi},<br>
-  journal={Transactions of the Institute of Measurement and Control},<br>
-  volume={44},<br>
-  number={16},<br>
-  pages={3229--3242},<br>
-  year={2022},<br>
-  publisher={SAGE Publications Sage UK: London, England}<br>
-}</p></details>
-2. Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 10, no. 1, pp. 254-271, Jan. 2023. DOI: 10.1109/JAS.2023.123072 (<strong>Top, SCI, Q1</strong>) (First author is tutor) <details> 
-<summary>Bibtex</summary><p>@article{lu2023dual,<br>
-  title={On dual-mode driving control method for a novel unmanned tractor with high safety and reliability},<br>
-  author={Lu, Wei and Li, Jiacheng and Qin, Huanhuan and Shu, Lei and Song, Aiguo},<br>
-  journal={IEEE/CAA Journal of Automatica Sinica},<br>
-  volume={10},<br>
-  number={1},<br>
-  pages={254--271},<br>
-  year={2023},<br>
-  publisher={IEEE}<br>
-}</p></details>
-1. Dengxiu Yu, **Jiacheng Li**, Zhen Wang and Xuelong Li, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/abstract/document/10247627" target="_blank">An Overview of Swarm Coordinated Control</a>,&quot; <i>IEEE Transactions on Artificial Intelligence</i>, vol. 5, no. 5, pp. 1918-1938, May 2024. DOI: 10.1109/TAI.2023.3314581 (First author is tutor) <details> 
-<summary>Bibtex</summary><p>@article{yu2023overview,<br>
-  title={An overview of swarm coordinated control},<br>
-  author={Yu, Dengxiu and Li, Jiacheng and Wang, Zhen and Li, Xuelong},<br>
-  journal={IEEE Transactions on Artificial Intelligence},<br>
-  volume={5},<br>
-  number={5},<br>
-  pages={1918--1938},<br>
-  year={2023},<br>
-  publisher={IEEE}<br>
-}</p></details>
- 
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)  
+7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)
+6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) 
+5. **Jiacheng Li**,  Junmin Liu, Shuaiqi Huangfu, Guoyan Cao, and Dengxiu Yu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S0307904X22006114" target="_blank">Leader-follower Formation of Light-weight UAVs with Novel Active Disturbance Rejection Control</a>,&quot; <i>Applied Mathematical Modelling</i>, vol. 117,  pp. 577-591, May 2023. DOI: 10.1016/j.apm.2022.12.032 (<strong>Top, SCI, Q1</strong>)   
+4. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Zihao Wu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9928314" target="_blank">Large-scale Fixed-wing UAV Swarm System Control with Collision Avoidance and Formation Maneuver</a>,&quot; <i>IEEE Systems Journal</i>, vol. 17, no. 1, pp. 744-755, March 2023. DOI: 10.1109/JSYST.2022.3212068 (<strong>SCI, Q2</strong>) 
+3. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Shuaiqi Huangfu,  &quot;<a class="dhtgD aw5Odc" href="https://journals.sagepub.com/doi/full/10.1177/01423312221100340" target="_blank">Unmanned Aerial Vehicle Formation Obstacle Avoidance Control Based on Light Transmission Model and Improved Artificial Potential Field</a>,&quot; <i>Transactions of the Institute of Measurement and Control</i>, vol. 44, no. 16, pp. 3229-3242, 2022. DOI: 10.1177/01423312221100340 (<strong>SCI, Q4</strong>) 
+2. Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 10, no. 1, pp. 254-271, Jan. 2023. DOI: 10.1109/JAS.2023.123072 (<strong>Top, SCI, Q1</strong>) (First author is tutor) 
+1. Dengxiu Yu, **Jiacheng Li**, Zhen Wang and Xuelong Li, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/abstract/document/10247627" target="_blank">An Overview of Swarm Coordinated Control</a>,&quot; <i>IEEE Transactions on Artificial Intelligence</i>, vol. 5, no. 5, pp. 1918-1938, May 2024. DOI: 10.1109/TAI.2023.3314581 (First author is tutor) 
 
 
 **Conference Papers**
