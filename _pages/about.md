@@ -82,11 +82,17 @@ redirect_from:
   year={2025},<br>
   publisher={IEEE}<br>
 }</p></details>
- 
-
-
-
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)  
+<summary>Bibtex</summary><p>@article{li2024cooperative,<br>
+  title={Cooperative control of air--ground swarms under DoS attacks via cloud--fog computing},<br>
+  author={Li, Jiacheng and Yu, Dengxiu and Ma, Wenhui and Liu, Jason JR and Liu, Yan-Jun},<br>
+  journal={IEEE Transactions on Network Science and Engineering},<br>
+  volume={11},<br>
+  number={5},<br>
+  pages={4278--4292},<br>
+  year={2024},<br>
+  publisher={IEEE}<br>
+}</p></details>
 6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) 
 5. **Jiacheng Li**,  Junmin Liu, Shuaiqi Huangfu, Guoyan Cao, and Dengxiu Yu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S0307904X22006114" target="_blank">Leader-follower Formation of Light-weight UAVs with Novel Active Disturbance Rejection Control</a>,&quot; <i>Applied Mathematical Modelling</i>, vol. 117,  pp. 577-591, May 2023. DOI: 10.1016/j.apm.2022.12.032 (<strong>Top, SCI, Q1</strong>)   
 4. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Zihao Wu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9928314" target="_blank">Large-scale Fixed-wing UAV Swarm System Control with Collision Avoidance and Formation Maneuver</a>,&quot; <i>IEEE Systems Journal</i>, vol. 17, no. 1, pp. 744-755, March 2023. DOI: 10.1109/JSYST.2022.3212068 (<strong>SCI, Q2</strong>) 
