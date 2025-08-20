@@ -72,7 +72,15 @@ redirect_from:
 
 
 **Journal Papers**
-8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details open><summary>Bib</summary><p>这里是详细内容。</p></details>
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details open><summary>Bib</summary><p>@article{guay2023example,
+  title={An Example Paper},
+  author={Guay, Jean-Michel and Li, Jiacheng},
+  journal={Journal of Examples},
+  year={2023},
+  volume={42},
+  pages={123--456}
+}
+  </p></details>
 
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)  
 6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) 
