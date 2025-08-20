@@ -72,14 +72,14 @@ redirect_from:
 
 
 **Journal Papers**
-8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details open><summary>Bib</summary><p>@article{guay2023example,
-  title={An Example Paper},
-  author={Guay, Jean-Michel and Li, Jiacheng},
-  journal={Journal of Examples},
-  year={2023},
-  volume={42},
-  pages={123--456}
-}
+8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)  <details><summary>Bib</summary><p>@article{guay2023example,
+  title={An Example Paper},<br>
+  author={Guay, Jean-Michel and Li, Jiacheng},<br>
+  journal={Journal of Examples},<br>
+  year={2023},<br>
+  volume={42},<br>
+  pages={123--456}<br>
+}<br>
   </p></details>
 
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)  
