@@ -71,18 +71,8 @@ redirect_from:
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
-/*去掉外边框*/
-details summary{
-    outline:none;
-    cursor:pointer;/*鼠标放上去之后变成手型*/
-}
-/*去掉前面默认的小黑三角*/
-details summary::-webkit-details-marker{
-    display:none; 
-}
-
 **Journal Papers**
-8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details><summary>Bibtex</summary><p>@article{li2025collision,<br>
+8.、 **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>) <details><summary>Bibtex</summary><p>@article{li2025collision,<br>
   title={Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control},<br>
   author={Li, Jiacheng and Ma, Wenhui and Fang, YangWang and Yu, Dengxiu and Chen, CL Philip},<br>
   journal={IEEE/CAA Journal of Automatica Sinica},<br>
