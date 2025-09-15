@@ -34,8 +34,8 @@ redirect_from:
 
  
 # 💻 Experience
-- *2025.08-Present*, Visiting PhD Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Supervisor: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>).
-- *2025.01-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>). 
+- *2025.08-Present*, Visiting PhD Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Supervisor: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>, IEEE Fellow, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>).
+- *2025.01-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>, IEEE Fellow, EIC for <a href="https://www.sciencedirect.com/journal/journal-of-the-franklin-institute">Journal of the Franklin Institute</a>). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Deptartment of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
 
 
