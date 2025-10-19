@@ -171,6 +171,7 @@ Main works：
 **Active Journal Reviewer for**
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Fuzzy Systems
+- IEEE Transactions on Industrial Informatics
 - Chaos, Solitons and Fractals
 - Journal of the Franklin Institute
 - Neurocomputing 
