@@ -182,6 +182,7 @@ Main works：
 - IEEE Transactions on Fuzzy Systems
 - IEEE Transactions on Industrial Informatics
 - Chaos, Solitons and Fractals
+- Engineering Applications of Artificial Intelligence
 - Journal of the Franklin Institute
 - Neurocomputing 
 - Defence Technology  
