@@ -183,6 +183,7 @@ Main works：
 - IEEE Transactions on Industrial Informatics
 - Chaos, Solitons and Fractals
 - Engineering Applications of Artificial Intelligence
+- Acta Astronautica
 - Journal of the Franklin Institute
 - Neurocomputing 
 - Defence Technology  
