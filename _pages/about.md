@@ -58,6 +58,7 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
+14. **Jiacheng Li**,  Jason J. R. Liu, &quot;Reputation-based Coordinated Control for Self-organized Swarm  Against Adversaries,&quot; 2025. (Conference)
 13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Guanghui Wen, and Peng Shi, &quot;Event-Triggered Interval Estimation Against Malicious Nodes through Reputation Evaluation,&quot; 2025.
 12. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; 2025. (Conference)
 11. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
