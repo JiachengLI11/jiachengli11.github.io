@@ -41,7 +41,7 @@ redirect_from:
 
 # 🔅 Research Interests
 - **Networked System Control**: Swarm intelligence, Swarm security control,  Cyber-physical system (CPS), Multi-agent system (MAS).
-- **Robotic System Control**: Robot sensing detection and control application, Teleoperation. 
+- **Robotic System Control**: Swarm embodied intelligence, Robot sensing detection and control application, Teleoperation. 
 		 
 
 # 🔥 News
@@ -58,8 +58,8 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-14. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
-13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Guanghui Wen, and Peng Shi, &quot;Event-Triggered Interval Estimation Against Malicious Nodes through Reputation Evaluation,&quot; 2025.
+14. **Jiacheng Li**,  Jason J. R. Liu, <!--Masako Kishida-->, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
+<!--13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Guanghui Wen, and Peng Shi, &quot;Event-Triggered Interval Estimation Against Malicious Nodes through Reputation Evaluation,&quot; 2025.-->
 12. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; 2025. (Conference)
 11. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
 10. **Jiacheng Li**,  Jason J. R. Liu, James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
