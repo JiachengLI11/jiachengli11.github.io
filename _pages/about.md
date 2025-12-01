@@ -58,7 +58,7 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-14. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
+14. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, Masako Kishida, James Lam, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
 <!--13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Guanghui Wen, and Peng Shi, &quot;Event-Triggered Interval Estimation Against Malicious Nodes through Reputation Evaluation,&quot; 2025.-->
 12. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; 2025. (Conference)
 11. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
@@ -169,6 +169,9 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
+- Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
+- Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Obstacle Avoidance for UAV Formation through an Optimization-algorithms-based Wave Potential Field</i>)
+- Final Year Projects：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
 - Master Thesis：Ding Luqi, Master student at the University of Hong Kong, 2025. (<i>Collision-Free Maneuvering for Dense UGV Formation based on Wave Potential Field</i>)
 - Master Thesis：Chen Shuo, Master student at the University of Macau, 2025. (<i>Fixed-Time Neural Adaptive Control Framework for Cart-Pendulum Robotics Systems with Bias-Actuator Dynamics</i>) 
 - Master Thesis：Zhou Wenjie, Master student at the University of Macau, 2025. (<i>Collision-Free UAV Formation Control with Improved Artificial Potential Field Method</i>) (2025 Best MSc Student Award in the Faculty of Science and Technology, University of Macau) 
