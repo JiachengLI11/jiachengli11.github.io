@@ -68,13 +68,14 @@ redirect_from:
 7. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
 6. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
 5. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
-4. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; 2024.  
+
 3. Wenjie Zhou, **Jiacheng Li**,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024. 
 2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, Jason J. R. Liu, and James Lam, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
 **Journal Papers**
+9. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;Secure Collaborative Control in Heterogeneous Swarms under DoS Attacks: Exploring Cooperative-Competitive Interactions,&quot; <i>IEEE Transactions on Aerospace and Electronic Systems</i>, Dec. 2025. (<strong>SCI, JCR Q1</strong>) (Accepted/In press). 
 8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 (<strong>Top, SCI, Q1</strong>)  
 7. **Jiacheng Li**, Dengxiu Yu, Wenhui Ma, Jason J. R. Liu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10559444" target="_blank">Cooperative Control of Air–Ground Swarms Under DoS Attacks via Cloud–Fog Computing</a>,&quot; <i>IEEE Transactions on Network Science and Engineering</i>, vol. 11, no. 5, pp. 4278-4292, Sept. 2024. DOI: 10.1109/TNSE.2024.3409900 (<strong>SCI, Q1</strong>)
 6. **Jiacheng Li**, Jason J. R. Liu, Peng Cheng, Chenjun Liu, Yuchen Zhang, and  Bo Chen, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S001600322400440X" target="_blank">Event-based Time-Varying UAV Formation Obstacle Avoidance Control under Cyber-Attacks</a>,&quot; <i>Journal of the Franklin Institute</i>, vol. 361, no. 13, p. 107019, Sept. 2024. DOI: 10.1016/j.jfranklin.2024.107019 (<strong>SCI, JCR Q1</strong>) 
