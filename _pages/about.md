@@ -45,6 +45,7 @@ redirect_from:
 		 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 Our paper on Resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2025.08*: &nbsp;🎉 I started my research visit to Prof. Peng Shi's group, with the end in October.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
@@ -164,7 +165,7 @@ Main works：
 # 🎖 Honors and Awards
 - *2023.10* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020.06* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
-- *2020.01* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition).
+- *2020.01* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition, etc.).
 
 
 
