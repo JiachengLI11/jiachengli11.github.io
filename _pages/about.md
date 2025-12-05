@@ -165,7 +165,7 @@ Main works：
 # 🎖 Honors and Awards
 - *2023.10* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020.06* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
-- *2020.01* Over 10 awards in robotics competitions at the provincial level and above.
+- *2020.01* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition).
 
 
 
