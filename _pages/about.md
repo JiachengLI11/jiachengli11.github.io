@@ -182,11 +182,21 @@ Main works：
 
 #  📚 Review Services
 **Active Journal Reviewer for**
-- Control Systems: IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Fuzzy Systems, Transactions of the Institute of Measurement and Control, Mathematical Modelling and Control, Journal of the Franklin Institute.
-- Control Engineering: Acta Astronautica, Drones, IEEE Transactions on Industrial Informatics, Defence Technology, International Journal of Aerospace Engineering.
-- Artificial Intelligence: Neurocomputing, Engineering Applications of Artificial Intelligence.
-- General Science: Chaos, Solitons and Fractals, Journal of Zhejiang University-SCIENCE A, Franklin Open.
- 
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Systems, Man and Cybernetics: Systems
+- IEEE Transactions on Fuzzy Systems
+- Chaos, Solitons and Fractals
+- Engineering Applications of Artificial Intelligence
+- Defence Technology
+- Journal of the Franklin Institute
+- Acta Astronautica
+- Neurocomputing
+- Journal of Zhejiang University-SCIENCE A
+- Transactions of the Institute of Measurement and Control
+- International Journal of Aerospace Engineering
+- Mathematical Modelling and Control
+- Drones
+- Franklin Open
 **Conference Reviewer for**
 - Chinese Automation Congress, 2021-2024
 - International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems, 2025
