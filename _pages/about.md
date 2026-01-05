@@ -205,7 +205,7 @@ Main works：
 - European Control Conference (ECC), 2026 
 
 # 💬 Talks
-- *2020.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
+- *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
 
 
