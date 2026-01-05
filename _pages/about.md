@@ -149,6 +149,7 @@ Main works：
 
 # 📄 Project Experience
 
+- *2026.01-Present*: Safety Navigation and Intelligent Control of Air-Ground Cooperative Unmanned Coastline Patrol Systems, <i>Macao Science and Technology Development Fund (FDCT) and the Ministry of Science and Technology (MOST) Joint Project</i>, Main participant.
 - *2024.05-Present*: Research on Intelligent Navigation and Control Technology for Hydrogen-Powered Unmanned Aerial Vehicles, <i>Shenzhen Science and Technology Program: Shenzhen-Hong Kong-Macao Science and Technology Program (Category C)</i>, Main participant.
 - *2024.05-Present*: Analysis and Scalable Control of Interconnected Positive Systems: Applications in Multi-Agent Coordination, <i>Macao Science and Technology Development Fund Research and Innovation Grant</i>, Main participant.
 - *2023.12-Present*: Enhancing Cyber-Physical Systems: Secure Estimation and Control Strategies, <i>Macao Science and Technology Development Fund Innovation and Technology Promotion Scheme</i>, Main participant.
