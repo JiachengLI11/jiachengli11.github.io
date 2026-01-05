@@ -204,7 +204,8 @@ Main works：
 - International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems, 2025
 - European Control Conference (ECC), 2026 
 
-
+# 💬 Talks
+- *2020.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
 
 
