@@ -105,6 +105,8 @@ redirect_from:
  
 
 **Patents**
+8. 刘锦荣, **李家诚**, "一种基于声誉评估算法的拜占庭节点识别方法及系统",  CN Patent (Submitted). 
+7. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
 6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted). 
 5. 刘双喜, **李家诚**, "一种基于双射变换的无人机集群转弯策略",  CN Patent (Submitted).   
 4. 刘双喜, **李家诚**, "一种基于预定时间收敛的非线性系统控制方法",  CN Patent (Submitted).   
