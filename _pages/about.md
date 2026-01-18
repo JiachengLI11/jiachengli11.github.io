@@ -34,6 +34,7 @@ redirect_from:
 
  
 # 💻 Experience
+- *2026.03-2026.05*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Supervisor: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a>, IEEE Fellow, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>).
 - *2026.01-Present*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Supervisor: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Dr. Chenchen Fan</a>). 
 - *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Supervisor: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>, IEEE Fellow, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>).
 - *2025.02-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Supervisor: <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>, IEEE Fellow, EIC for <a href="https://www.sciencedirect.com/journal/journal-of-the-franklin-institute">Journal of the Franklin Institute</a>,  <a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518652">IET Control Theory and Applications</a>). 
@@ -46,8 +47,8 @@ redirect_from:
 		 
 
 # 🔥 News
+<!-- - *2025.08*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.-->
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
-<!-- - *2025.08*: &nbsp;🎉 I started my research visit to Prof. Peng Shi's group, with the end in October.-->
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
 - *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
