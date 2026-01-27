@@ -42,7 +42,7 @@ redirect_from:
 
 
 # 🔅 Research Interests
-- **Networked Systems**: Swarm intelligence, Distributed Resilient control, Multi-agent systems (MASs), Cyber-physical systems (CPSs).
+- **Networked Systems**: Swarm intelligence, Distributed resilient control, Multi-agent systems (MASs), Cyber-physical systems (CPSs).
 - **Robotics Systems**: Robot sensing and control application, Teleoperation, Embodied intelligence. 
 		 
 
