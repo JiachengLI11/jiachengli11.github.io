@@ -42,8 +42,8 @@ redirect_from:
 
 
 # 🔅 Research Interests
-- **Networked System Control**: Swarm intelligence, Swarm security control,  Cyber-physical system (CPS), Multi-agent system (MAS).
-- **Robotic System Control**: Swarm embodied intelligence, Robot sensing detection and control application, Teleoperation. 
+- **Networked System**: Swarm intelligence, Distributed estimation and control, Cyber-security, Multi-agent systems (MASs), Cyber-physical systems (CPSs).
+- **Robotic System**: Robot sensing and control application, Teleoperation, Embodied intelligence. 
 		 
 
 # 🔥 News
