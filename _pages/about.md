@@ -42,7 +42,7 @@ redirect_from:
 
 
 # 🔅 Research Interests
-- **Networked System**: Swarm intelligence, Distributed estimation and control, Cyber-security, Multi-agent systems (MASs), Cyber-physical systems (CPSs).
+- **Networked System**: Swarm intelligence, Distributed/Resilient cooperative control, Multi-agent systems (MASs), Cyber-physical systems (CPSs).
 - **Robotic System**: Robot sensing and control application, Teleoperation, Embodied intelligence. 
 		 
 
@@ -60,7 +60,7 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-<!--13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Event-Triggered Interval Estimation Against Malicious Nodes through Reputation Evaluation,&quot; 2025.-->
+<!--13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
 12. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
 11. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
 10. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; 2025. (Conference)
