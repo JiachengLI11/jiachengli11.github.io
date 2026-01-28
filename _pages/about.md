@@ -189,26 +189,11 @@ Main works：
 
 #  📚 Review Services
 **Active Journal Reviewer for**
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Systems, Man and Cybernetics: Systems
-- IEEE Transactions on Fuzzy Systems
-- Chaos, Solitons and Fractals, Scientific Reports
-- Engineering Applications of Artificial Intelligence
-- Defence Technology, Acta Astronautica
-- Journal of the Franklin Institute
-- Journal of Zhejiang University-SCIENCE A
-- Transactions of the Institute of Measurement and Control
-- International Journal of Aerospace Engineering
-- Mathematical Modelling and Control
-- Neurocomputing, Drones, Franklin Open
-- Robotics and Autonomous Systems
-- Ain Shams Engineering Journal
+IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Fuzzy Systems, Chaos, Solitons and Fractals, Scientific Reports, Engineering Applications of Artificial Intelligence, Defence Technology, Acta Astronautica, Journal of the Franklin Institute, Journal of Zhejiang University-SCIENCE A, Transactions of the Institute of Measurement and Control, International Journal of Aerospace Engineering, Mathematical Modelling and Control, Neurocomputing, Drones, Franklin Open, Robotics and Autonomous Systems, Ain Shams Engineering Journal.
  
   
 **Conference Reviewer for**
-- Chinese Automation Congress, 2021-2024
-- International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems, 2025
-- European Control Conference (ECC), 2026 
+Chinese Automation Congress (2021-2024), International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems (2025), European Control Conference (2026).
 
 # 💬 Talks
 - *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
