@@ -192,7 +192,7 @@ Main works：
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Fuzzy Systems
-- Chaos, Solitons and Fractals
+- Chaos, Solitons and Fractals, Scientific Reports
 - Engineering Applications of Artificial Intelligence
 - Defence Technology, Acta Astronautica
 - Journal of the Franklin Institute
