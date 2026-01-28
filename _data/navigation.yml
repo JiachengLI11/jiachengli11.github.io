@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Profile"
+  - title: "Bio"
     url: "/#profile"
 
   - title: "Educations"
@@ -21,16 +21,21 @@ main:
   - title: "Project"
     url: "/#-project-experience"
 
-  - title: "Services"
-    url: "/#-review-services" 
-    
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: "/#-honors-and-awards"
 
   - title: "Assistant Supervisory"
     url: "/#-assistant-supervisory"
 
-  - title: "Random Thoughts"
-    url: "/#-random-thoughts"
+  - title: "Services"
+    url: "/#-review-services" 
+    
+  - title: "Talks"
+    url: "/#-Talks" 
+    
+  - title: "Others"
+    url: "/#-Others" 
+    
+ 
 
  
