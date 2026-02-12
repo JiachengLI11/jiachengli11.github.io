@@ -35,7 +35,7 @@ redirect_from:
  
 # 💻 Experience
 <!-- - *2026.03-Present*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a>, Fellow of Canadian Academy of Engineering, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>).-->
-- *2026.01-Present*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Dr. Chenchen Fan</a>). 
+- *2026.01-Present*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
 - *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>, Fellow of the Australian Academy of Technological Sciences & Engineering, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>).
 - *2025.02-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Co-supervisor: <a href="https://mech.hku.hk/academic-staff/lam-j/">Prof. James Lam</a>, Member of Academia Europaea, EIC for <a href="https://www.sciencedirect.com/journal/journal-of-the-franklin-institute">Journal of the Franklin Institute</a>,  <a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518652">IET Control Theory and Applications</a>). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Deptartment of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
@@ -176,6 +176,7 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
+- Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
 - Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
 - Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Obstacle Avoidance for UAV Formation through an Optimization-algorithms-based Wave Potential Field</i>)
 - Final Year Projects：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
