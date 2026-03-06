@@ -35,7 +35,7 @@ redirect_from:
  
 # 💻 Experience
 <!-- - *2026.03-Present*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a>, Fellow of Canadian Academy of Engineering, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>).-->
-- *2026.01-Present*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
+- *2026.01-2026.03*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
 - *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a>, <!--Fellow of the Australian Academy of Technological Sciences & Engineering,--> EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>).
 - *2025.02-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Co-supervisor: <a href="https://mech.hku.hk/academic-staff/lam-j/">Prof. James Lam</a>, <!--Member of Academia Europaea,--> EIC for <a href="https://www.sciencedirect.com/journal/journal-of-the-franklin-institute">Journal of the Franklin Institute</a>,  <a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518652">IET Control Theory and Applications</a>). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Deptartment of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
@@ -60,10 +60,9 @@ redirect_from:
 # 📝 Publications 
 
 **Finished/Submitted**
-<!--13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
-12. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
-11. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
-10. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; 2025. (Conference)
+<!--12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
+11. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
+10. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
 9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
 8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
 7. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
@@ -88,6 +87,7 @@ redirect_from:
 
 
 **Conference Papers**
+4. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; <i>European Control Conference (ECC)</i>, 2026.
 3. **Jiacheng Li**, Wenjun Luo,  Jason J. R. Liu, and James Lam, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11090519" target="_blank">Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability</a>,&quot; <i>37th Chinese Control and Decision Conference (CCDC)</i>, 2025. DOI：10.1109/CCDC65474.2025.11090519 
 2. **Jiacheng Li**, Yangwang Fang, Shuaiqi Huangfu, Mengjie Zeng, Guangyu Yang, and Tianbo Deng, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_434" target="_blank">Affine Formation Obstacle Avoidance Control of Unmanned Aerial Vehicles with Prescribed Convergence Time</a>,&quot; <i>International Conference on Guidance, Navigation and Control (ICGGNC)</i>, pp. 4467–4478, 2023. DOI: 10.1007/978-981-19-6613-2_434 
 1. **Jiacheng Li**, Wei Lu, Yankai Li, Mengjie Zeng, Ling Wang, Yongnian Zhang, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9326587/authors#authors" target="_blank">Tractor Steering Teleoperation Control with Fuzzy PID Algorithm based on Delay Time Measurement with Timestamp</a>,&quot; <i>Chinese Automation Congress (CAC)</i>, pp. 1553-1558, 2020. DOI: 10.1109/CAC51589.2020.9326587 
