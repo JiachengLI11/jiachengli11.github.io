@@ -177,7 +177,8 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
-- Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
+- Master Thesis：Lv Shanyu, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
+- Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Deep Learning and Large Language Models</i>)
 - Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
 - Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Obstacle Avoidance for UAV Formation through an Optimization-algorithms-based Wave Potential Field</i>)
 - Final Year Projects：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
