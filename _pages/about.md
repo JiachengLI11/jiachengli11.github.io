@@ -47,6 +47,8 @@ redirect_from:
 		 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.
+- *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation control is accepted for presentation in European Control Conference 2026.
 <!-- - *2025.08*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.-->
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
