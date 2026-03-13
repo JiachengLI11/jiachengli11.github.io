@@ -72,7 +72,7 @@ redirect_from:
 5. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
 4. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
 3. Wenjie Zhou, **Jiacheng Li**,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024. (Conference) 
-2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, Jason J. R. Liu, and James Lam, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
+2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, and Jason J. R. Liu, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
