@@ -205,7 +205,7 @@ Chinese Automation Congress (2021-2024), International Conference on Automation-
 - *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
 
-</> HTML
+
 # 🌏 Others
 - *2025.01* I'm quite fond of reading the "<a href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te Ching</a>"(道德经), particularly the <a href="https://weread.qq.com/web/bookDetail/4d832d70718a6c904d88a58">version elucidated by Prof. Han Pengjie</a>—it's brimming with profound wisdom.
 - *2024.12*  I enjoy researching under <a href="https://www.fst.um.edu.mo/personal/jasonliu/"> Dr. Liu's</a> supervision; he supports my exploration of interesting studies and provides ample opportunities and assistance.
