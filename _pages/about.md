@@ -179,6 +179,7 @@ Main works：
 
 
 #  🧑‍🎨 Assistant Supervisory
+- Master Thesis：Cheng Bingyang, Master student at the University of Macau, 2027. (<i> Resilient Shepherding Formation Control and Its Application in Turtlebots</i>)
 - Master Thesis：Lv Shanyu, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
 - Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Deep Learning and Large Language Models</i>)
 - Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
