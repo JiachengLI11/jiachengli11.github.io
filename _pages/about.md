@@ -62,6 +62,7 @@ redirect_from:
 
 **Finished/Submitted**
 <!--12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
+12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025. 
 10. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
 9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
 8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
@@ -87,7 +88,7 @@ redirect_from:
 
 
 **Conference Papers**
-<!--5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; <i>IFAC World Congress</i>, 2026.-->
+5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; <i>IFAC World Congress</i>, 2026.
 4. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; <i>European Control Conference (ECC)</i>, 2026.
 3. **Jiacheng Li**, Wenjun Luo,  Jason J. R. Liu, and James Lam, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11090519" target="_blank">Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability</a>,&quot; <i>Chinese Control and Decision Conference (CCDC)</i>, 2025. DOI：10.1109/CCDC65474.2025.11090519 
 2. **Jiacheng Li**, Yangwang Fang, Shuaiqi Huangfu, Mengjie Zeng, Guangyu Yang, and Tianbo Deng, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_434" target="_blank">Affine Formation Obstacle Avoidance Control of Unmanned Aerial Vehicles with Prescribed Convergence Time</a>,&quot; <i>International Conference on Guidance, Navigation and Control (ICGGNC)</i>, pp. 4467–4478, 2023. DOI: 10.1007/978-981-19-6613-2_434 
