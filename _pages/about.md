@@ -49,7 +49,6 @@ redirect_from:
 # 🔥 News
 - *2026.03*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
-<!-- - *2025.08*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.-->
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
@@ -63,8 +62,7 @@ redirect_from:
 
 **Finished/Submitted**
 <!--12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
-11. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
-10. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; 2025. (Conference)
+10. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
 9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
 8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
 7. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
@@ -89,6 +87,7 @@ redirect_from:
 
 
 **Conference Papers**
+5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, and Masako Kishida, &quot;Safety Control for Self-Organized Swarm Against Obstacles and Adversaries,&quot; <i>IFAC World Congress</i>, 2026.
 4. **Jiacheng Li**,  Jason J. R. Liu, and Hak-Keung Lam, &quot;Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes,&quot; <i>European Control Conference (ECC)</i>, 2026.
 3. **Jiacheng Li**, Wenjun Luo,  Jason J. R. Liu, and James Lam, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11090519" target="_blank">Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability</a>,&quot; <i>Chinese Control and Decision Conference (CCDC)</i>, 2025. DOI：10.1109/CCDC65474.2025.11090519 
 2. **Jiacheng Li**, Yangwang Fang, Shuaiqi Huangfu, Mengjie Zeng, Guangyu Yang, and Tianbo Deng, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_434" target="_blank">Affine Formation Obstacle Avoidance Control of Unmanned Aerial Vehicles with Prescribed Convergence Time</a>,&quot; <i>International Conference on Guidance, Navigation and Control (ICGGNC)</i>, pp. 4467–4478, 2023. DOI: 10.1007/978-981-19-6613-2_434 
@@ -195,7 +194,7 @@ Main works：
 
 #  📚 Review Services
 **Active Journal Reviewer for**
-IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Fuzzy Systems, Chaos, Solitons and Fractals, Scientific Reports, Engineering Applications of Artificial Intelligence, Defence Technology, Acta Astronautica, Journal of the Franklin Institute, Journal of Zhejiang University-SCIENCE A, Transactions of the Institute of Measurement and Control, International Journal of Aerospace Engineering, Mathematical Modelling and Control, Neurocomputing, Drones, Franklin Open, Robotics and Autonomous Systems, Ain Shams Engineering Journal, Journal of Intelligent & Robotic Systems, Advances in Space Research, International Journal of Intelligent Robotics and Applications, Asian Journal of Control.
+IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Fuzzy Systems, Chaos, Solitons and Fractals, Scientific Reports, Engineering Applications of Artificial Intelligence, Applied Mathematical Modelling, Defence Technology, Acta Astronautica, Journal of the Franklin Institute, Journal of Zhejiang University-SCIENCE A, Transactions of the Institute of Measurement and Control, International Journal of Aerospace Engineering, Mathematical Modelling and Control, Neurocomputing, Drones, Franklin Open, Robotics and Autonomous Systems, Ain Shams Engineering Journal, Journal of Intelligent & Robotic Systems, Advances in Space Research, International Journal of Intelligent Robotics and Applications, Asian Journal of Control.
  
   
 **Conference Reviewer for**
