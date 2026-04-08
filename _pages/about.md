@@ -47,6 +47,7 @@ redirect_from:
 		 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Our conference paper on safety control is accepted for presentation in IFAC World Congress 2026.
 - *2026.03*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
@@ -62,7 +63,7 @@ redirect_from:
 
 **Finished/Submitted**
 <!--12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025.-->
-12. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025. 
+11. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2025. 
 10. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025.
 9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, and Peng Shi, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.
 8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
