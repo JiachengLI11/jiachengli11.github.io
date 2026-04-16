@@ -154,6 +154,10 @@ Main works：
 
 # 📄 Project Experience
 
+<p style="color:#0B3D91;">
+I have been deeply involved in a broad range of research proposal development, including national (NSFC), Macao (FDCT, FDCT–NSFC, and FDCT–MOST), Hong Kong (GRF), cross-regional (SZ-HK-Macao), university (MYRG-CRG, MYRG-GRG), and enterprise-supported projects. Many of these proposals have been successfully funded.
+</p>
+
 - *2026.01-Present*: Research on Key Technologies of Intelligent USV-UAV Swarm System for Searching and Tracking, <i>Macao Science and Technology Development Fund (FDCT) and the National Natural Science Foundation of China (NSFC) Joint Project </i>, 0040/2025/AFJ, Main participant.
 - *2026.01-Present*: Safety Navigation and Intelligent Control of Air-Ground Cooperative Unmanned Coastline Patrol Systems, <i>Macao Science and Technology Development Fund (FDCT) and the Ministry of Science and Technology (MOST) Joint Project (Key Project in Mainland)</i>, 0055/2025/AMJ, Main participant.
 - *2024.05-2026.05*: Research on Intelligent Navigation and Control Technology for Hydrogen-Powered Unmanned Aerial Vehicles, <i>Shenzhen Science and Technology Program: Shenzhen-Hong Kong-Macao Science and Technology Program (Category C)</i>, SGDX20230821091559019, Main participant.
