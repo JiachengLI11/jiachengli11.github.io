@@ -25,6 +25,11 @@ redirect_from:
 <p>
         </p><div style="text-align:justify">I am interested in networked system control theories and their applications in intelligent unmanned systems. I welcome colleagues and seniors to communicate and cooperate with me, exploring exciting research together.</div>
 <p></p>
+
+ 
+<p style="color:#0B3D91;">
+I am also actively seeking potential postdoctoral opportunities starting from **late 2027**, and would be glad to discuss possible collaborations if there is a good fit.
+</p>
  
 
 # 🎓 Educations
