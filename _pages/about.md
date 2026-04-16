@@ -28,7 +28,7 @@ redirect_from:
 
  
 <p style="color:#0B3D91;">
-I am also actively seeking potential postdoctoral opportunities starting from **late 2027**, and would be glad to discuss possible collaborations if there is a good fit.
+I am actively seeking potential postdoctoral opportunities starting from <strong>late 2027</strong>, and would be glad to discuss possible collaborations if there is a good fit.
 </p>
  
 
