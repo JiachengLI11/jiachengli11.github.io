@@ -47,7 +47,6 @@ redirect_from:
 		 
 
 # 🔥 News
-<!-- - *2026.04*: &nbsp;🎉 Our conference paper on safety control is accepted for presentation in IFAC World Congress 2026.--> 
 - *2026.03*: &nbsp;🎉 I started my research visit to Prof. Yang Shi's group.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
