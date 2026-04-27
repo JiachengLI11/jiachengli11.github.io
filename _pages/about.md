@@ -116,7 +116,7 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 7. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
 6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted). 
 <!--5. 刘双喜, **李家诚**, "一种基于双射变换的无人机集群转弯策略",  CN Patent (Submitted).  --> 
-4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN Patent (Submitted). 
+4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN Patent (Granted). 
 3. 方洋旺, **李家诚**, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Granted). 
 2. 卢伟, **李家诚**, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published, under review).   
 1. 卢伟, **李家诚**, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法", CN 11348243 (Published).    
