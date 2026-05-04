@@ -192,12 +192,14 @@ I have been deeply involved in diverse research proposal development, including 
 - Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Deep Learning and Large Language Models</i>)
 - Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
 - Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Obstacle Avoidance for UAV Formation through an Optimization-algorithms-based Wave Potential Field</i>)
-- Final Year Projects：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
+- Final Year Project：Chin Ka Hou and Leong Chong Chi, Undergraduate students at the University of Macau, 2026. (<i>System Design and Control of Autonomous Following Mobile Robots</i>)
+- Final Year Project：Kong Chi Lap and Ku Iat Long, Undergraduate students at the University of Macau, 2026. (<i>Design and Control of Mobile Robots for Autonomous Target Following</i>) 
+- Final Year Project：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
 - Master Thesis：Ding Luqi, Master student at the University of Hong Kong, 2025. (<i>Collision-Free Maneuvering for Dense UGV Formation based on Wave Potential Field</i>)
 - Master Thesis：Chen Shuo, Master student at the University of Macau, 2025. (<i>Fixed-Time Neural Adaptive Control Framework for Cart-Pendulum Robotics Systems with Bias-Actuator Dynamics</i>) 
 - Master Thesis：Zhou Wenjie, Master student at the University of Macau, 2025. (<i>Collision-Free UAV Formation Control with Improved Artificial Potential Field Method</i>) (2025 Best MSc Student Award in the Faculty of Science and Technology, University of Macau) 
-- Final Year Projects：Tang Chak Iat, Ma Pou Hei, Undergraduate students at the University of Macau, 2025. (<i>Design, Development, and Control of a Group of Mobile Robots</i>) (Best Final Year Projects in the Department of Electromechanical Engineering, University of Macau) 
-- Final Year Projects：Jianzhang Sun, Cheng Fai Chao, Undergraduate students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>)
+- Final Year Project：Tang Chak Iat and Ma Pou Hei, Undergraduate students at the University of Macau, 2025. (<i>Design, Development, and Control of a Group of Mobile Robots</i>) (Best Final Year Projects in the Department of Electromechanical Engineering, University of Macau) 
+- Final Year Project：Jianzhang Sun and Cheng Fai Chao, Undergraduate students at the University of Macau, 2024. (<i>Obstacle Avoidance Control for Multiple Unmanned Aerial Vehicles: A Position-based Artificial Potential Field Approach</i>)
 
 
 
