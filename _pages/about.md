@@ -66,15 +66,14 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 # 📝 Publications 
 
 **Finished/Submitted**
-11. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
-10. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
-9. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
-8. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
-7. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
-6. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
-5. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
-4. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
-3. Wenjie Zhou, **Jiacheng Li**,  Jason J. R. Liu, Yan-Jun Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024. (Conference) 
+10. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
+9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
+8. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
+7. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
+6. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
+5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
+4. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; 2024.   
+3. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control,&quot; 2024. 
 2. Wenjie Zhou, **Jiacheng Li**, Wenjun Luo, Zhiyuan Zhang, and Jason J. R. Liu, &quot;An improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
@@ -106,7 +105,8 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, **Jiacheng Li**, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3 (<strong>SCI, Q4</strong>) 
 3. Mengjie Zeng, Shunming Li, Ranran Li, **Jiacheng Li**, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023. DOI: 10.1088/1361-6501/ac8dae (<strong>SCI, Q3</strong>) 
 2. 黄号, 马文卉, **李家诚**, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法 </a>,&quot; <i>清华大学学报（自然科学版</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 (EI, Highly Cited Paper of Frontrunner 5000, 2025) 
-1. 曾梦洁, 李舜酩, 李冉冉, **李家诚**, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012 
+1. 曾梦洁, 李舜酩, 李冉冉, **李家诚**, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012
+0. Wenjie Zhou, **Jiacheng Li**,  Wenjun Luo, Zhiyuan Zhang, and Jason J. R. Liu, &quot;An Improved APF Method for UAV Formation Control in Sudden Obstacle Environments,&quot; <i>Asian Control Conference (ASCC)</i>, 2026, Bali, Indonesia. (Conference)  
  
 
  
