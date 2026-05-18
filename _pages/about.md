@@ -39,8 +39,8 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 
  
 # 💻 Experience
-- *2026.05-Present*, Visiting Student, <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a>,  <a href="https://hkust.edu.hk/">The Hong
-Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https://eesling.home.ece.ust.hk/">Prof. Ling Shi</a>).
+<!-- - *2026.05-Present*, Visiting Student, <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a>,  <a href="https://hkust.edu.hk/">Hong
+Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https://eesling.home.ece.ust.hk/">Prof. Ling Shi</a>).-->
 - *2026.03-2026.05*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a><!--Fellow of Canadian Academy of Engineering,, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>-->).
 - *2026.01-2026.03*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
 - *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a><!--Fellow of the Australian Academy of Technological Sciences & Engineering, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>-->).
