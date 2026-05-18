@@ -39,6 +39,8 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 
  
 # 💻 Experience
+- *2026.05-Present*, Visiting Student, <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a>,  <a href="https://hkust.edu.hk/">The Hong
+Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https://eesling.home.ece.ust.hk/">Prof. Ling Shi</a>).
 - *2026.03-2026.05*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a><!--Fellow of Canadian Academy of Engineering,, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>-->).
 - *2026.01-2026.03*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
 - *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a><!--Fellow of the Australian Academy of Technological Sciences & Engineering, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>-->).
@@ -114,11 +116,11 @@ I am actively seeking potential postdoctoral opportunities starting from <strong
 **Patents**
 8. 刘锦荣, **李家诚**, "一种基于声誉评估算法的拜占庭节点识别方法及系统",  CN Patent (Submitted). 
 7. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
-6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Submitted). 
+6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Published). 
 <!--5. 刘双喜, **李家诚**, "一种基于双射变换的无人机集群转弯策略",  CN Patent (Submitted).  --> 
 4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN Patent (Granted). 
 3. 方洋旺, **李家诚**, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Granted). 
-2. 卢伟, **李家诚**, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published, under review).   
+2. 卢伟, **李家诚**, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published).   
 1. 卢伟, **李家诚**, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法", CN 11348243 (Published).    
 
 
