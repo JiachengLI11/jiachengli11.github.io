@@ -101,8 +101,8 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
  
  
 **Cooperative Papers**
-7. Peng Cheng,  Wenjun Luo, Chenjun Liu, **Jiacheng Li**, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11060578" target="_blank">Event-Based Prescribed Control of Rigid Spacecraft With Actuator Faults</a>,&quot;  <i> IEEE Transactions on Circuits and Systems I: Regular Papers</i>, 2025. DOI: 10.1109/TCSI.2025.3582878 (<strong>SCI, Q1</strong>)(Accepted/In press)  
-6. Peng Cheng, Wenjun Luo, **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11030229" target="_blank">Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft</a>,&quot;  <i>IEEE Transactions on Aerospace and Electronic Systems</i>, 2025. DOI: 10.1109/TAES.2025.3578288 (<strong>SCI, Q1</strong>)(Accepted/In press)  
+7. Peng Cheng, Wenjun Luo, Chenjun Liu, <strong>Jiacheng Li</strong>, Jason J. R. Liu, Dapeng Li, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11060578" target="_blank">Event-Triggered Saturation-Tolerant Prescribed Control of Rigid Spacecraft With Actuator Faults</a>,&quot; <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, vol. 72, no. 12, pp. 8408-8420, 2025. DOI: 10.1109/TCSI.2025.3582878 (<strong>SCI, Q1</strong>)
+6. Peng Cheng, Wenjun Luo, <strong>Jiacheng Li</strong>, Chenjun Liu, Jason J. R. Liu, and Zhiguang Feng, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11030229" target="_blank">Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft</a>,&quot; <i>IEEE Transactions on Aerospace and Electronic Systems</i>, vol. 61, no. 5, pp. 13033-13045, 2025. DOI: 10.1109/TAES.2025.3578288 (<strong>SCI, Q1</strong>)
 5. Wenjie Zhou, Shuo Chen, **Jiacheng Li**, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267 
 4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, **Jiacheng Li**, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3 (<strong>SCI, Q4</strong>) 
 3. Mengjie Zeng, Shunming Li, Ranran Li, **Jiacheng Li**, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023. DOI: 10.1088/1361-6501/ac8dae (<strong>SCI, Q3</strong>) 
@@ -118,7 +118,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 7. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
 6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Published). 
 <!--5. 刘双喜, **李家诚**, "一种基于双射变换的无人机集群转弯策略",  CN Patent (Submitted).  --> 
-4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN Patent (Granted). 
+4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN 121857345 B (Granted). 
 3. 方洋旺, **李家诚**, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Granted). 
 2. 卢伟, **李家诚**, "一种基于多驾驶模式切换的无人车辆控制方法",  CN Patent：202010438526.3 (Published).   
 1. 卢伟, **李家诚**, 陈浩, "一种基于时间戳的车辆遥操作时延控制方法", CN 11348243 (Published).    
