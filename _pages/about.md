@@ -54,7 +54,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 		 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉 I started my research visit to Prof. Ling Shi's group.
+- *2026.06*: &nbsp;🎉 I started my research visit to Prof. Ling Shi's group.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
