@@ -191,6 +191,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 #  🧑‍🎨 Assistant Supervisory
 - Master Thesis：Cheng Bingyang, Master student at the University of Macau, 2027. (<i>Resilient Shepherding Formation Control and Its Application in Turtlebots</i>)
+- Master Thesis：Tang Kun, Master student at the University of Macau, 2027. (<i>Reinforcement-Learning-Based Formation Control and Its Application in Turtlebots</i>)
 - Master Thesis：Lv Shanyu, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
 - Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Deep Learning and Large Language Models</i>)
 - Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
