@@ -217,8 +217,8 @@ IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man a
 Chinese Automation Congress (CAC, 2021-2024), International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems (2025), European Control Conference (ECC, 2026), Chinese Control Conference(CCC, 2026), Asian Control Conference (ASCC, 2026).
 
 # 💬 Talks
-- *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 - *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
+- *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
 
 
