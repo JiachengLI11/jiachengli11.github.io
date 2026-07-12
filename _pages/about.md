@@ -218,7 +218,7 @@ Chinese Automation Congress (CAC, 2021-2024), International Conference on Automa
 
 # 💬 Talks
 - *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
-- *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, resilience, and early warnings in natural dynamical networks".
+- *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
 - *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
 - *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
