@@ -22,15 +22,15 @@ redirect_from:
  I obtained my M.S. degree in <i>Electronic Information</i> with the <a href="https://wurenxitong.nwpu.edu.cn/#">Unmanned System Research Institute</a>, <a href="http://en.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2023, under the supervision of <a href="https://teacher.nwpu.edu.cn/ywfang.html">Prof. Yangwang Fang</a> and co-supervision of <a href="https://iopen.nwpu.edu.cn/info/1015/6016.htm">Prof. Dengxiu Yu</a>. 
  Currently, I am pursuing a Ph.D. degree in <i>Electromechanical Engineering</i> at the <a href="https://www.fst.um.edu.mo/eme/">Department of Electromechanical Engineering</a>, <a href="https://www.um.edu.mo/">University of Macau</a>, under the supervision of <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a> and co-supervision of <a href="https://meweb.hku.hk/jlam/">Prof. James Lam</a>.</div>
 <p></p>
-<!--  <p>
+   <p>
          </p><div style="text-align:justify">I am interested in networked system control theories and their applications in intelligent unmanned systems. I welcome colleagues and seniors to communicate and cooperate with me, exploring exciting research together.</div>  
-<p></p> -->
+<p></p> 
 
- 
+ <!--
 <p style="color:#0B3D91;">
 I am actively seeking potential postdoctoral opportunities starting from <strong>late 2027</strong>, and would be glad to discuss possible collaborations if there is a good fit.
 </p>
- 
+ -->
 
 # 🎓 Educations
 - *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
