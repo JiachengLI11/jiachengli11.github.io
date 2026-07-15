@@ -26,10 +26,7 @@ redirect_from:
          </p><div style="text-align:justify">I am interested in networked system control theories and their applications in intelligent unmanned systems. I welcome colleagues and seniors to communicate and cooperate with me, exploring exciting research together.</div>  
 <p></p> 
 
- <!--
-<p style="color:#0B3D91;">
-I am actively seeking potential postdoctoral opportunities starting from <strong>late 2027</strong>, and would be glad to discuss possible collaborations if there is a good fit.
-</p> -->
+
 
 # 🎓 Educations
 - *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
