@@ -50,7 +50,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 		 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 I made a short visit to Hiroshima University and the University of Tsukuba for two weeks, hosted by Prof. Masaki Ogura and Prof. Masako Kishida.
+- *2026.07*: &nbsp;🎉 I made short research visits to Hiroshima University and the University of Tsukuba during a two-week period, hosted by Prof. Masaki Ogura and Prof. Masako Kishida, respectively.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
