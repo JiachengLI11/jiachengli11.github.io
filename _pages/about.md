@@ -50,7 +50,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 		 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 I started my research visit to Prof. Ling Shi's group.
+- *2026.06*: &nbsp;🎉 I made a short visit to Hiroshima University and the University of Tsukuba for two weeks, hosted by Prof. Masaki Ogura and Prof. Masako Kishida.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
@@ -228,7 +228,7 @@ Chinese Automation Congress (CAC, 2021-2024), International Conference on Automa
 - *2020.09* The website of the lab I previously joined, led by <a href="https://faculty.njau.edu.cn/luwei1/zh_CN/index.htm">Prof. Wei Lu</a>, can be found here <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
 - Address: 1047, E11, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau, China.
 - *Footprints (Beyond Mainland China)*: <img src="https://flagcdn.com/16x12/hk.png" alt="Hong Kong flag"> Hong Kong (2023-), <img src="https://flagcdn.com/16x12/mo.png" alt="Macau flag"> Macau (2023-), <img src="https://flagcdn.com/16x12/sg.png" alt="Singapore flag" style="vertical-align:middle;"> Singapore (2025), <img src="https://flagcdn.com/16x12/au.png" alt="Australia flag"> Australia: Melbourne, Adelaide, Sydney (2025), <img src="https://flagcdn.com/16x12/ca.png" alt="Canada flag"> Canada: Vancouver, Victoria (2026), <img src="https://flagcdn.com/16x12/kr.png" alt="South Korea flag"> South Korea: Seoul (2026), <img src="https://flagcdn.com/16x12/tw.png" alt="Taiwan flag"> Taiwan (2026), <img src="https://flagcdn.com/16x12/id.png" alt="Indonesia flag"> Indonesia: Bali (2026), <img src="https://flagcdn.com/16x12/gb.png" alt="United Kingdom flag"> United Kingdom: London (2026), <img src="https://flagcdn.com/16x12/is.png" alt="Iceland flag"> Iceland: Reykjavík (2026), <img src="https://flagcdn.com/16x12/it.png" alt="Italy flag"> Italy: Milan (2026), 
-<img src="https://flagcdn.com/16x12/tr.png" alt="Türkiye flag"> Türkiye: Istanbul (2026), <img src="https://flagcdn.com/16x12/jp.png" alt="Japan flag"> Japan: Hiroshima (2026).
+<img src="https://flagcdn.com/16x12/tr.png" alt="Türkiye flag"> Türkiye: Istanbul (2026), <img src="https://flagcdn.com/16x12/jp.png" alt="Japan flag"> Japan: Hiroshima, Tokyo, Tsukuba (2026).
  
 
 
