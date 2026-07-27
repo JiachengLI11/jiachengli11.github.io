@@ -178,11 +178,22 @@ I have been deeply involved in diverse research proposal development, including 
 
 
 # 🥇 Honors and Awards
-- *2026* Best Student Paper Nominee, 15th Asian Control Conference (ASCC).
+- *2026* Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC).
 - *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
 - *2023* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
 - *2018-2020* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition, etc.).
+
+
+
+
+# 💬 Talks
+- *2026.07* "Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
+- *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
+- *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
+- *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
+- *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
+
 
 
 
@@ -212,15 +223,7 @@ IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man a
 **Conference Reviewer for**
 Chinese Automation Congress (CAC, 2021-2024), International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems (2025), European Control Conference (ECC, 2026), Chinese Control Conference(CCC, 2026), Asian Control Conference (ASCC, 2026).
 
-# 💬 Talks
-- *2026.07* "Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
-- *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
-- *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
-- *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
-- *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
-
-
-
+ 
 
 # 🌏 Others
 - *2025.01* I'm quite fond of reading the "<a href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te Ching</a>"(道德经), particularly the <a href="https://weread.qq.com/web/bookDetail/4d832d70718a6c904d88a58">version elucidated by Prof. Han Pengjie</a>—it's brimming with profound wisdom.
