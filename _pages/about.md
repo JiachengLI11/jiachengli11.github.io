@@ -110,8 +110,9 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
  
 
 **Patents**
-8. 刘锦荣, **李家诚**, "一种基于声誉评估算法的拜占庭节点识别方法及系统",  CN Patent (Submitted). 
-7. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
+9. 刘锦荣, **李家诚**, "一种基于声誉评估算法的拜占庭节点识别方法及系统",  CN Patent (Submitted). 
+8. 刘锦荣, **李家诚**, "一种基于长期短期声誉的弹性区间估计方法及系统",  CN Patent (Submitted). 
+7. 刘锦荣, 吕善宇, **李家诚**, "一种基于基于多重损失约束的船舶行为预测与监测方法",  CN Patent (Submitted).  
 6. 刘锦荣, 周文杰, **李家诚**, 林参, "一种基于水波势场的无人机紧密编队避障控制方法",  CN Patent (Published). 
 5. 刘双喜, **李家诚**, 冯睿哲,黄伟,赵伟,刘朝阳，"一种基于双射变换的无人机集群转弯策略",  CN Patent: 202610819474.1 (Submitted).  
 4. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN 121857345 B (Granted). 
