@@ -64,12 +64,12 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 # 📝 Publications 
 
 **Finished/Submitted**
-9. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
-8. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
-7. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
-6. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
-5. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
-4. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
+8. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
+7. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
+6. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
+5. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
+4. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
+3. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.    
 2. Wenjie Zhou,**Jiacheng Li**, Jason J. R. Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
