@@ -76,7 +76,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 
 
 **Journal Papers**
-11. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, pp. 1-12, Aug. 2026. (Early Access)
+11. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, pp. 1-12, Aug. 2026. (Accepted/in press)
 10. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11578239" target="_blank">Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control</a>,&quot; <i>IEEE Transactions on Signal and Information Processing over Networks</i>, pp. 1-12, Jun. 2026. DOI: 10.1109/TSIPN.2026.3707443 (Early Access)
 9. **Jiacheng Li**, Jason J. R. Liu, Chenjun Liu, Simone Baldi, and Dengxiu Yu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11300706" target="_blank">Resilient Control under DoS Attacks of Hybrid Air-Sea Swarms with Cooperative-Competitive Interactions</a>,&quot; <i>IEEE Transactions on Aerospace and Electronic Systems</i>, vol. 62, pp. 2913-2927, Dec. 2025. DOI: 10.1109/TAES.2025.3643810
 8. **Jiacheng Li**, Wenhui Ma, Yangwang Fang, Dengxiu Yu, and C. L. Philip Chen, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10946085" target="_blank">Collision-Free Maneuvering for a UAV Swarm Based on Parallel Control</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 4, pp. 761–775, Apr. 2025. DOI: 10.1109/JAS.2024.124674 
@@ -204,11 +204,11 @@ I have been deeply involved in diverse research proposal development, including 
 - Master Thesis：Tang Kun, Master student at the University of Macau, 2027. (<i>Reinforcement-Learning-Based Formation Control and Its Application in Turtlebots</i>)
 - Master Thesis：Lv Shanyu, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Long-Short-Term-Memory Network</i>)
 - Master Thesis：Wu Tong, Master student at the University of Macau, 2027. (<i>Target Intention Prediction based on Deep Learning and Large Language Models</i>)
-- Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Shepherding Inspired Guidance Control for Large Scale UGV Formation</i>)
-- Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Obstacle Avoidance for UAV Formation through an Optimization-algorithms-based Wave Potential Field</i>)
+- Master Thesis：Cao Haize, Master student at the University of Hong Kong, 2026. (<i>Collective Behavior Control in Multi-Agent Systems: From Physical Rules to Deep Reinforcement Learning</i>)
+- Master Thesis：Yin lening, Master student at the University of Hong Kong, 2026. (<i>Collision Free Maneuvering for UAV Formation based on Particle Swarm Optimization and Dynamic Window Approach</i>)
 - Final Year Project：Chin Ka Hou and Leong Chong Chi, Undergraduate students at the University of Macau, 2026. (<i>System Design and Control of Autonomous Following Mobile Robots</i>)
 - Final Year Project：Kong Chi Lap and Ku Iat Long, Undergraduate students at the University of Macau, 2026. (<i>Design and Control of Mobile Robots for Autonomous Target Following</i>) 
-- Final Year Project：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>Collaborative Handling Robots: Design, Integration, and Control Strategies</i>) 
+- Final Year Project：Omar Kassana, Undergraduate students at the University of Macau, 2026. (<i>From Design to Control: Coordinated Leader-Follower Multi-Robot System for Mobile Manipulation</i>) 
 - Master Thesis：Ding Luqi, Master student at the University of Hong Kong, 2025. (<i>Collision-Free Maneuvering for Dense UGV Formation based on Wave Potential Field</i>)
 - Master Thesis：Chen Shuo, Master student at the University of Macau, 2025. (<i>Fixed-Time Neural Adaptive Control Framework for Cart-Pendulum Robotics Systems with Bias-Actuator Dynamics</i>) 
 - Master Thesis：Zhou Wenjie, Master student at the University of Macau, 2025. (<i>Collision-Free UAV Formation Control with Improved Artificial Potential Field Method</i>) (2025 Best MSc Student Award in the Faculty of Science and Technology, University of Macau) 
