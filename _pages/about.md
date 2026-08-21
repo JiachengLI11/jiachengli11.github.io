@@ -197,7 +197,7 @@ I have been deeply involved in diverse research proposal development, including 
 - *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
 # 👨‍🏫 Teaching Assistant
-- *Semester 1, 2026–2027* EMEN7037 — Advanced Mathematics for Electromechanical Engineering, University of Macau.
+- *Semester 1, 2026–2027* EMEN7037 Advanced Mathematics for Electromechanical Engineering, University of Macau.
 
 #  🧑‍🎨 Assistant Supervisory
 - Master Thesis：Cheng Bingyang, Master student at the University of Macau, 2027. (<i>Resilient Shepherding Formation Control and Its Application in Turtlebots</i>)
