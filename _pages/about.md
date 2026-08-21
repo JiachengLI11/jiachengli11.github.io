@@ -196,8 +196,8 @@ I have been deeply involved in diverse research proposal development, including 
 - *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
 - *2025.10* "Reputation-Based Distributed Interval Estimation under Byzantine Attacks", at the University of Adelaide, chaired by <a href="https://researchers.adelaide.edu.au/profile/bing.yan"> Dr. Bing Yan</a>.
 
-
-
+# 👨‍🏫 Teaching Assistant
+- *Semester 1, 2026–2027* EMEN7037 — Advanced Mathematics for Electromechanical Engineering, University of Macau.
 
 #  🧑‍🎨 Assistant Supervisory
 - Master Thesis：Cheng Bingyang, Master student at the University of Macau, 2027. (<i>Resilient Shepherding Formation Control and Its Application in Turtlebots</i>)
