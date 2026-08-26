@@ -57,7 +57,6 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
 - *2024.06*: &nbsp;🎉 Our paper on collision-free cooperation control is accepted by IEEE/CAA Journal of Automatica Sinica.
 - *2024.05*: &nbsp;🎉 Our paper on swarm security control through cloud-fog computing is accepted by IEEE Transactions on Network Science and Engineering.
-- *2024.04*: &nbsp;🎉 Our patent about "UAV obstacle avoidance control based on light transmission model" is authorized by the China National Intellectual Property Administration.
 - *2023.09*: &nbsp;🎉 Our overview of swarm coordinated control is accepted by IEEE Transactions on Artificial Intelligence.
 - *2023.08*: &nbsp;🎉 I am honored to join Dr. Jason J. R. Liu's team and look forward to do more valuable and innovative research in the future.
 
