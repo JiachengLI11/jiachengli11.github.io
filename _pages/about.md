@@ -180,6 +180,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 
 # 🥇 Honors and Awards
+- *2026* Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress.
 - *2026* Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC).
 - *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
 - *2023* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
@@ -190,6 +191,9 @@ I have been deeply involved in diverse research proposal development, including 
 
 
 # 💬 Talks
+
+- *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
+- *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.07* "Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
 - *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
 - *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
@@ -232,7 +236,7 @@ Chinese Automation Congress (CAC, 2021-2024), International Conference on Automa
 - *2024.12*  I enjoy researching under <a href="https://www.fst.um.edu.mo/personal/jasonliu/"> Dr. Liu's</a> supervision; he supports my exploration of interesting studies and provides ample opportunities and assistance.
 - Related Websites: <a href="https://jasoniusl.github.io/lab-web/">Intelligent Unmanned Systems Laboratory</a>, <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
 - Address: 1047, E11, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau, China.
-- *Footprints (Beyond Mainland China)*: <img src="https://flagcdn.com/16x12/hk.png" alt="Hong Kong flag"> Hong Kong (2023-), <img src="https://flagcdn.com/16x12/mo.png" alt="Macau flag"> Macau (2023-), <img src="https://flagcdn.com/16x12/sg.png" alt="Singapore flag" style="vertical-align:middle;"> Singapore (2025), <img src="https://flagcdn.com/16x12/au.png" alt="Australia flag"> Australia: Melbourne, Adelaide, Sydney (2025), <img src="https://flagcdn.com/16x12/ca.png" alt="Canada flag"> Canada: Vancouver, Victoria (2026), <img src="https://flagcdn.com/16x12/kr.png" alt="South Korea flag"> South Korea: Seoul (2026), <img src="https://flagcdn.com/16x12/tw.png" alt="Taiwan flag"> Taiwan (2026), <img src="https://flagcdn.com/16x12/id.png" alt="Indonesia flag"> Indonesia: Bali (2026), <img src="https://flagcdn.com/16x12/gb.png" alt="United Kingdom flag"> United Kingdom: London (2026), <img src="https://flagcdn.com/16x12/is.png" alt="Iceland flag"> Iceland: Reykjavík (2026), <img src="https://flagcdn.com/16x12/it.png" alt="Italy flag"> Italy: Milan (2026), 
+- *Footprints (Beyond Mainland China)*: <img src="https://flagcdn.com/16x12/hk.png" alt="Hong Kong flag"> Hong Kong (2023-), <img src="https://flagcdn.com/16x12/mo.png" alt="Macau flag"> Macau (2023-), <img src="https://flagcdn.com/16x12/sg.png" alt="Singapore flag" style="vertical-align:middle;"> Singapore (2025), <img src="https://flagcdn.com/16x12/au.png" alt="Australia flag"> Australia: Melbourne, Adelaide, Sydney (2025), <img src="https://flagcdn.com/16x12/ca.png" alt="Canada flag"> Canada: Vancouver, Victoria (2026), <img src="https://flagcdn.com/16x12/kr.png" alt="South Korea flag"> South Korea: Seoul, Busan (2026), <img src="https://flagcdn.com/16x12/tw.png" alt="Taiwan flag"> Taiwan (2026), <img src="https://flagcdn.com/16x12/id.png" alt="Indonesia flag"> Indonesia: Bali (2026), <img src="https://flagcdn.com/16x12/gb.png" alt="United Kingdom flag"> United Kingdom: London (2026), <img src="https://flagcdn.com/16x12/is.png" alt="Iceland flag"> Iceland: Reykjavík (2026), <img src="https://flagcdn.com/16x12/it.png" alt="Italy flag"> Italy: Milan (2026), 
 <img src="https://flagcdn.com/16x12/tr.png" alt="Türkiye flag"> Türkiye: Istanbul (2026), <img src="https://flagcdn.com/16x12/jp.png" alt="Japan flag"> Japan: Hiroshima, Tokyo, Tsukuba (2026).
  
 
