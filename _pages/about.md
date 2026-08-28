@@ -35,7 +35,7 @@ redirect_from:
 
  
 # 💻 Experience
-- *2026.06-Present*, Visiting Student, <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a>,  <a href="https://hkust.edu.hk/">Hong
+- *2026.06-2026.08*, Visiting Student, <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a>,  <a href="https://hkust.edu.hk/">Hong
 Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https://eesling.home.ece.ust.hk/">Prof. Ling Shi</a>).
 - *2026.03-2026.05*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a><!--Fellow of Canadian Academy of Engineering,, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>-->).
 - *2026.01-2026.03*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
