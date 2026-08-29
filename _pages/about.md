@@ -50,8 +50,8 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 		 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 I was selected as a finalist for the Outstanding PhD Research Award at the 23rd IFAC World Congress.
-- *2025.08*: &nbsp;🎉 Our paper on broad-learning-based secure control is accepted by IEEE Transactions on Emerging Topics in Computational Intelligence.
+- *2026.08*: &nbsp;🎉 I was selected as a finalist for the Outstanding PhD Research Award at the 23rd IFAC World Congress.
+- *2026.08*: &nbsp;🎉 Our paper on broad-learning-based secure control is accepted by IEEE Transactions on Emerging Topics in Computational Intelligence.
 - *2026.07*: &nbsp;🎉 I made short research visits to Hiroshima University and the University of Tsukuba during a two-week period, hosted by Prof. Masaki Ogura and Prof. Masako Kishida, respectively.
 - *2026.03*: &nbsp;🎉 Our conference paper on reputation-driven cooperation is accepted for presentation in European Control Conference 2026.
 - *2025.12*: &nbsp;🎉 Our paper on resilient bipartite consensus is accepted by IEEE Transactions on Aerospace and Electronic System.
