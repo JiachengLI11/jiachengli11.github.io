@@ -171,7 +171,6 @@ I have been deeply involved in diverse research proposal development, including 
 - *2024.05-2027.01*: Analysis and Scalable Control of Interconnected Positive Systems: Applications in Multi-Agent Coordination, <i>Macao Science and Technology Development Fund Research and Innovation Grant</i>, 0139/2023/RIA2, Main participant.
 - *2024.01-2025.12*: Development of a Co-Design Framework for Control and Communication in Networked Autonomous Systems, <i>Multi-year Research Grant Collaborative Research of the University of Macau</i>, MYRG-CRG2024-00037-FST-ICI, Main participant.
 - *2023.12-2025.12*: Enhancing Cyber-Physical Systems: Secure Estimation and Control Strategies, <i>Macao Science and Technology Development Fund Innovation and Technology Promotion Scheme</i>, 0008/2023/ITP1, Main participant.
-- *2024.01-2024.08*: Theory and Control Methods for Collaborative Navigation of Air-Ground Unmanned Swarms under Weak Information Conditions, National Natural Science Foundation (Key Project), 62333009, Participant.
 - *2023.01-2023.07*: Coordinated Control of Unmanned Underwater Vehicles (UUV) Swarm, <i>The 705th Research Institute of China Shipbuilding Industry Corporation</i>, Student in charge.
 - *2021.12-2022,12*: Research on the UAV Autonomous Capability Assessment System, <i>Air Force Engineering University</i>, Main participant.
 - *2020.10-2021.12*: Development of UAV Formation Collaborative Flight Control Simulation System, <i>Xidian University</i>, Main participant.
