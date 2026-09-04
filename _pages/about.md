@@ -29,7 +29,7 @@ redirect_from:
 
 
 # 🎓 Educations
-- *2024.08-Present*, Ph.D. Dept. of Electromechanical Engineering, University of Macau.
+- *2024.08-Present*, Ph.D. Dept. of Robotics, University of Macau.
 - *2020.09-2023.06*, M.E. Dept. of Unmanned System Research, Northwestern Polytechnical University.
 - *2016.09-2020.06*, B.E. Dept. of Artificial Intelligence, Nanjing Agricultural University.
 
@@ -39,7 +39,7 @@ redirect_from:
 Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https://eesling.home.ece.ust.hk/">Prof. Ling Shi</a>).
 - *2026.03-2026.05*, Visiting Student, <a href="https://www.uvic.ca/ecs/mechanical/">Department of Mechanical Engineering</a>,  <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. (Host: <a href="https://www.uvic.ca/research/labs/acipl/groupmembers/administration/profiles/shiyang.php">Prof. Yang Shi</a><!--Fellow of Canadian Academy of Engineering,, EIC for <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics">IEEE Transactions on Industrial Electronics</a>-->).
 - *2026.01-2026.03*, Research Assistant,  <a href="https://www.polyu.edu.hk/rs/">Department of Rehabilitation Sciences</a>,  <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, Hong Kong. (Host: <a href="https://www.polyu.edu.hk/rs/people/research-assistant-professors/dr-chenchen-fan/?sc_lang=en">Prof. Chenchen Fan</a>). 
-- *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">University of Adelaide</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a><!--Fellow of the Australian Academy of Technological Sciences & Engineering, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>-->).
+- *2025.08-2025.10*, Visiting Student, <a href="https://set.adelaide.edu.au/electrical-mechanical-engineering/">School of Electrical and Mechanical Engineering</a>,  <a href="https://www.adelaide.edu.au/">Adelaide University</a>, Australia. (Host: <a href="https://researchers.adelaide.edu.au/profile/peng.shi">Prof. Peng Shi</a><!--Fellow of the Australian Academy of Technological Sciences & Engineering, EIC for <a href="https://www.ieeesmc.org/publications/transactions-on-cybernetics/">IEEE Transactions on Cybernetics</a>-->).
 - *2025.02-2025.05*, Research Associate, <a href="https://www.mech.hku.hk/">Department of Mechanical Engineering</a>,  <a href="https://www.hku.hk/">University of Hong Kong</a>, Hong Kong. (Co-supervisor: <a href="https://mech.hku.hk/academic-staff/lam-j/">Prof. James Lam</a><!--Member of Academia Europaea, EIC for <a href="https://www.sciencedirect.com/journal/journal-of-the-franklin-institute">Journal of the Franklin Institute</a>,  <a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518652">IET Control Theory and Applications</a>-->). 
 - *2023.08-2024.07*, Research Assistant,  <a href="https://www.fst.um.edu.mo/eme/">Deptartment of Electromechanical Engineering</a>,  <a href="https://www.um.edu.mo/">University of Macau</a>, Macau. (Supervisor: <a href="https://www.fst.um.edu.mo/personal/jasonliu/">Ass.Prof. Jason J. R. Liu</a>).
 
