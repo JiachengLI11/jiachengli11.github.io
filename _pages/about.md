@@ -65,13 +65,14 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 # 📝 Publications 
 
 **Finished/Submitted**
-9. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
-8. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
-7. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
-6. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
-5. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
-4. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.   
-3. Wenjun Luo, **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, Housheng Su, Zhan Shu, &quot;Event-Triggered Disturbance Rejection Taylor-Lagrange Control for Safety-Critical Systems,&quot; 2026.  
+10. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
+9. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
+8. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
+7. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
+6. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
+5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.   
+4. Wenjun Luo, **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, Housheng Su, and Zhan Shu, &quot;Event-Triggered Disturbance Rejection Taylor-Lagrange Control for Safety-Critical Systems,&quot; 2026.  
+3. Zhiyuan Zhang, **Jiacheng Li**, Chenchen Fan, and Jason J. R. Liu, &quot;Distributed Safety-Critical Control for Delayed Networked Systems via Disturbance-Predictive Observers,&quot; 2026.  
 2. Wenjie Zhou,**Jiacheng Li**, Jason J. R. Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
@@ -195,7 +196,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
-- *2026.07* "Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
+- *2026.07* ""<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>"", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
 - *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
 - *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
 - *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
