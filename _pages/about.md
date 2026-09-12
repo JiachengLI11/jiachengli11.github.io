@@ -196,7 +196,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
-- *2026.07* ""<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>"", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
+- *2026.07* "<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
 - *2026.07* "Reputation-Driven Cooperative Control for Networked Systems with Input Saturation and Malicious Nodes", 26th European Control Conference (ECC), Reykjavík, Iceland.
 - *2026.07* "Reputation-Based Resilient Distributed Interval Estimation under Byzantine Attacks", Flash talk at the 26th ECC workshop on "Robustness, Resilience, and Early Warnings in Natural Dynamical Networks", Reykjavík, Iceland.
 - *2026.06* "An Improved APF Method for UAV Formation Control in Unforeseen Dynamic Obstacle Environments", at the session of best student paper nominees, 15th Asian Control Conference (ASCC), Bali, Indonesia.
