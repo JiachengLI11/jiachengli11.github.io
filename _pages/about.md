@@ -72,8 +72,9 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 6. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, Yan-Jun Liu, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
 5. **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, James Lam, and Hak-Keung Lam, &quot;Network Progressive Recovery Control for  Swarm with Intra-Group Differences: A Deep Q-Learning Strategy,&quot; 2024.   
 4. Wenjun Luo, **Jiacheng Li**, Zhiyuan Zhang, Jason J. R. Liu, Housheng Su, and Zhan Shu, &quot;Event-Triggered Disturbance Rejection Taylor-Lagrange Control for Safety-Critical Systems,&quot; 2026.  
-3. Zhiyuan Zhang, **Jiacheng Li**, Chenchen Fan, and Jason J. R. Liu, &quot;Distributed Safety-Critical Control for Delayed Networked Systems via Disturbance-Predictive Observers,&quot; 2026.  
-2. Wenjie Zhou,**Jiacheng Li**, Jason J. R. Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
+3. Zhiyuan Zhang, **Jiacheng Li**, Chenchen Fan, and Jason J. R. Liu, &quot;Distributed Safety-Critical Control for Delayed Networked Systems via Disturbance-Predictive Observers,&quot; 2026.
+3. Zhiyuan Zhang, Zhengqi Deng, **Jiacheng Li**, Jason J. R. Liu, and Zhiguang Feng, &quot;Matrix Control Barrier Functions for Connectivity-Constrained Nonuniform Formation Maneuvering,&quot; 2026. 
+2. Wenjie Zhou, **Jiacheng Li**, Jason J. R. Liu, and James Lam, &quot;Collision Avoidance for Close UAV Formation: A Water-Wave Potential Field Approach,&quot; 2024.  
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
