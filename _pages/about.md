@@ -78,6 +78,10 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 1. Jason J. R. Liu, **Jiacheng Li**, Chenjun Liu, Peng Cheng, Ka-Wai Kwok, and James Lam, &quot;Distributed Frame-Based Containment Control for Positive Networked Fractional-Order Systems: A Linear Programming Approach,&quot; 2023. 
 
 
+**Review Papers**
+1. Dengxiu Yu, **Jiacheng Li**, Zhen Wang and Xuelong Li, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/abstract/document/10247627" target="_blank">An Overview of Swarm Coordinated Control</a>,&quot; <i>IEEE Transactions on Artificial Intelligence</i>, vol. 5, no. 5, pp. 1918-1938, May 2024. DOI: 10.1109/TAI.2023.3314581 (First author is tutor) 
+
+
 **Journal Papers**
 11. **Jiacheng Li**, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu,  Yan-Jun Liu, and C. L. Philip Chen,  &quot;Broad-Learning-Based Adaptive Secure Control for UAV  Swarms under Deception Attacks,&quot; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, pp. 1-12, Aug. 2026. (Accepted/in press)
 10. **Jiacheng Li**, Wenjun Luo, Chenjun Liu, Jason J. R. Liu, Dengxiu Yu, and Yan-Jun Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11578239" target="_blank">Resilient Consensus for Networked Systems with Hidden Nodes and Edges: Detection, Isolation, and Control</a>,&quot; <i>IEEE Transactions on Signal and Information Processing over Networks</i>, pp. 1-12, Jun. 2026. DOI: 10.1109/TSIPN.2026.3707443 (Early Access)
@@ -89,7 +93,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 4. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Zihao Wu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/9928314" target="_blank">Large-scale Fixed-wing UAV Swarm System Control with Collision Avoidance and Formation Maneuver</a>,&quot; <i>IEEE Systems Journal</i>, vol. 17, no. 1, pp. 744-755, March 2023. DOI: 10.1109/JSYST.2022.3212068
 3. **Jiacheng Li**, Yangwang Fang, Haoyu Cheng, Zhikai Wang, and Shuaiqi Huangfu,  &quot;<a class="dhtgD aw5Odc" href="https://journals.sagepub.com/doi/full/10.1177/01423312221100340" target="_blank">Unmanned Aerial Vehicle Formation Obstacle Avoidance Control Based on Light Transmission Model and Improved Artificial Potential Field</a>,&quot; <i>Transactions of the Institute of Measurement and Control</i>, vol. 44, no. 16, pp. 3229-3242, 2022. DOI: 10.1177/01423312221100340
 2. Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/10007919" target="_blank">On Dual-Mode Driving Control Method for a Novel Unmanned Tractor With High Safety and Reliability</a>,&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 10, no. 1, pp. 254-271, Jan. 2023. DOI: 10.1109/JAS.2023.123072 (First author is tutor) 
-1. Dengxiu Yu, **Jiacheng Li**, Zhen Wang and Xuelong Li, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/abstract/document/10247627" target="_blank">An Overview of Swarm Coordinated Control</a>,&quot; <i>IEEE Transactions on Artificial Intelligence</i>, vol. 5, no. 5, pp. 1918-1938, May 2024. DOI: 10.1109/TAI.2023.3314581 (First author is tutor) 
+
 
 
 **Conference Papers**
