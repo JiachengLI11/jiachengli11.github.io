@@ -1,0 +1,242 @@
+:root {
+  --campus-background-opacity: 0.60;
+  --campus-panel-opacity: 0.96;
+  --campus-accent: #376e9e;
+}
+
+body {
+  position: relative;
+  isolation: isolate;
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+/* Keep the photograph separate from the text so only the backdrop fades. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: url("../../images/campusphoto-33.webp") center / cover no-repeat;
+  opacity: var(--campus-background-opacity);
+}
+
+#main {
+  width: calc(100% - 48px);
+  padding-top: 1.25em;
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+  background: rgba(255, 255, 255, var(--campus-panel-opacity));
+  border-radius: 10px;
+  box-shadow: 0 8px 36px rgba(30, 54, 75, 0.075);
+}
+
+.masthead {
+  background: linear-gradient(105deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.34) 52%, rgba(255, 255, 255, 0.12));
+  border-bottom-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 2px 14px rgba(40, 60, 80, 0.035);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+}
+
+.masthead::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 2px;
+  width: var(--reading-progress, 0%);
+  background: #8c99a6;
+  pointer-events: none;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  color: #000;
+  border-radius: 5px;
+  transition: color 180ms ease, background-color 180ms ease;
+}
+
+.greedy-nav a:hover,
+.greedy-nav .hidden-links a:hover {
+  color: #000;
+  background-color: rgba(0, 0, 0, 0.035);
+}
+
+.greedy-nav a:focus-visible {
+  outline: 2px solid var(--campus-accent);
+  outline-offset: 3px;
+}
+
+.greedy-nav .visible-links a::before {
+  display: none;
+}
+
+.greedy-nav button {
+  background-color: rgba(255, 255, 255, 0.34);
+  border-radius: 7px;
+}
+
+.greedy-nav button:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.navicon,
+.navicon::before,
+.navicon::after {
+  background-color: #20262e;
+}
+
+.greedy-nav .hidden-links {
+  background: #edf0f4;
+  border-color: #d6dfe8;
+  border-radius: 9px;
+  box-shadow: 0 8px 24px rgba(36, 54, 73, 0.12);
+  max-height: calc(100vh - 90px);
+  overflow-y: auto;
+}
+
+.greedy-nav .hidden-links::after {
+  border-color: #edf0f4 transparent;
+}
+
+.page__content h1 {
+  position: relative;
+  color: #394c5d;
+  padding-left: 0.55em;
+}
+
+.page__content h1::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0.55em;
+  width: 3px;
+  height: 1.05em;
+  border-radius: 2px;
+  background: #86a7c3;
+}
+
+.author__avatar img {
+  display: block;
+  margin-inline: auto;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 0;
+  padding: 0;
+  box-shadow: none;
+}
+
+.sidebar .profile_box > .author__avatar {
+  margin-inline: auto;
+}
+
+.sidebar .author__name {
+  text-align: center;
+}
+
+.author__name-line {
+  display: block;
+}
+
+.author__name-cn {
+  font-family: "SimSun", "宋体", serif;
+}
+
+/* Use the same icon colors in the desktop list and the compact mobile row. */
+.sidebar .author__urls-wrapper .fa-map-marker {
+  color: #bb3832;
+}
+
+.sidebar .author__urls-wrapper .fa-envelope {
+  color: #27658e;
+}
+
+.sidebar .author__urls-wrapper .fa-linkedin {
+  color: #095caf;
+}
+
+.sidebar .author__urls-wrapper .fa-graduation-cap {
+  color: #2f6cd1;
+}
+
+.sidebar .author__urls-wrapper .ai-orcid-square {
+  color: #809f24;
+}
+
+.sidebar .author__urls-wrapper .ai-ieee {
+  color: #005282;
+}
+
+.sidebar .author__urls-wrapper .fa-globe {
+  color: #4d259f;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .greedy-nav a,
+  .greedy-nav .visible-links a::before,
+  .author__avatar img {
+    transition: none;
+  }
+}
+
+@media (min-width: 925px) {
+  .sidebar .profile_box {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media (max-width: 924px) {
+  #main {
+    width: calc(100% - 24px);
+  }
+
+  .page__content {
+    overflow-wrap: anywhere;
+  }
+
+  .sidebar .profile_box {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 10px 12px;
+  }
+
+  .sidebar .author__content {
+    min-width: 0;
+    padding-left: 0;
+  }
+
+  .sidebar .author__urls-wrapper {
+    display: block;
+    grid-column: 1 / -1;
+    margin-left: 0;
+  }
+
+  .sidebar .author__urls_sm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 0;
+    font-size: 1.35em;
+  }
+}
+
+@media print {
+  body::before {
+    display: none;
+  }
+
+  #main {
+    width: auto;
+    background: #fff;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
