@@ -1,5 +1,5 @@
 :root {
-  --campus-background-opacity: 0.60;
+  --campus-background-opacity: 0.65;
   --campus-panel-opacity: 0.96;
   --campus-accent: #376e9e;
 }
@@ -19,6 +19,7 @@ body::before {
   z-index: -1;
   pointer-events: none;
   background: url("../../images/campusphoto-33.webp") center / cover no-repeat;
+  filter: brightness(1.08);
   opacity: var(--campus-background-opacity);
 }
 
@@ -151,31 +152,31 @@ body::before {
 
 /* Use the same icon colors in the desktop list and the compact mobile row. */
 .sidebar .author__urls-wrapper .fa-map-marker {
-  color: #bb3832;
+  color: #96302b;
 }
 
 .sidebar .author__urls-wrapper .fa-envelope {
-  color: #27658e;
+  color: #1f5274;
 }
 
 .sidebar .author__urls-wrapper .fa-linkedin {
-  color: #095caf;
+  color: #074987;
 }
 
 .sidebar .author__urls-wrapper .fa-graduation-cap {
-  color: #2f6cd1;
+  color: #2555a5;
 }
 
 .sidebar .author__urls-wrapper .ai-orcid-square {
-  color: #809f24;
+  color: #617a1b;
 }
 
 .sidebar .author__urls-wrapper .ai-ieee {
-  color: #005282;
+  color: #004268;
 }
 
 .sidebar .author__urls-wrapper .fa-globe {
-  color: #4d259f;
+  color: #3d1e7e;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -188,6 +189,7 @@ body::before {
 
 @media (min-width: 925px) {
   .sidebar .profile_box {
+    padding-top: 12px;
     padding-left: 12px;
     padding-right: 12px;
   }
