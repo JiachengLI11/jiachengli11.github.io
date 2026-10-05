@@ -1,5 +1,8 @@
 {% if page.analytics != false %}
 
+{% if site.cloudflare_web_analytics_token and site.cloudflare_web_analytics_token != "" %}
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"{{ site.cloudflare_web_analytics_token | escape }}"}'></script>
+{% elsif site.google_analytics_id and site.google_analytics_id != "" %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
 <script>
@@ -10,4 +13,5 @@
   gtag('config', "{{ site.google_analytics_id }}");
 </script>
 
+{% endif %}
 {% endif %}

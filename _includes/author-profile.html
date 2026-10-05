@@ -9,7 +9,8 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% assign author_name_lines = author.name | newline_to_br | split: '<br />' %}
+    <h3 class="author__name">{% for name_line in author_name_lines %}<span class="author__name-line{% unless forloop.first %} author__name-cn{% endunless %}">{{ name_line | strip }}</span>{% endfor %}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -22,14 +23,14 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.email %}
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
-      {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -112,6 +113,12 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.ieee_xplore %}
+        <li><a href="{{ author.ieee_xplore }}"><i class="ai ai-ieee ai-fw" aria-hidden="true"></i> IEEE Xplore</a></li>
+      {% endif %}
+      {% if author.web_of_science %}
+        <li><a href="{{ author.web_of_science }}"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> Web of Science</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
@@ -120,11 +127,11 @@
 {% endif %}
     </ul>
       <div class="author__urls_sm">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}" aria-label="Email" title="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -207,14 +214,17 @@
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
+      {% if author.ieee_xplore %}
+        <a href="{{ author.ieee_xplore }}" aria-label="IEEE Xplore" title="IEEE Xplore"><i class="ai ai-ieee ai-fw" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.web_of_science %}
+        <a href="{{ author.web_of_science }}" aria-label="Web of Science" title="Web of Science"><i class="fas fa-fw fa-globe" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.IEEE %}
-        <a href="{{ author.ieee }}"><i class="ai ai-ieee ai-fw" aria-hidden="true""></i></a>
       {% endif %}
     </div>
   </div>
