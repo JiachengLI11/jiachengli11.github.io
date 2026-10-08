@@ -112,10 +112,9 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 2. 黄号, 马文卉, **李家诚**, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法</a>,&quot; <i>清华大学学报（自然科学版)</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 (入选:领跑者5000——中国精品科技期刊顶尖学术论文) 
 1. 曾梦洁, 李舜酩, 李冉冉, **李家诚**, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012
 0. Wenjie Zhou, **Jiacheng Li**,  Wenjun Luo, Zhiyuan Zhang, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11702181" target="_blank">An Improved APF Method for UAV Formation Control in Sudden Obstacle Environments</a>,&quot; <i>Asian Control Conference (ASCC)</i>, 2026, Bali, Indonesia. (Conference, Best Student Paper Nominee)  
- 
-https://ieeexplore.ieee.org/document/11702181
- 
 
+
+  
 **Patents**
 10. 方洋旺, **李家诚**, 张茂桃, 王志凯, 马文卉, "一种基于仿鸟类趋光性的固定翼无人机避障控制策略", CN 115202387 B (Granted). 
 9. 刘双喜, **李家诚**, 赵伟、黄伟、冯睿哲，"一种基于预定时间收敛的非线性系统控制方法",  CN 121857345 B (Granted). 
