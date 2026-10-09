@@ -50,6 +50,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 		 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 I have been awarded the 2026 IEEE Control Systems Society Graduate Collaboration Fellowship, supporting my research collaboration with Prof. Peng Shi.
 - *2026.08*: &nbsp;🎉 I was selected as a finalist for the Outstanding PhD Research Award at the 23rd IFAC World Congress.
 - *2026.08*: &nbsp;🎉 Our paper on broad-learning-based secure control is accepted by IEEE Transactions on Emerging Topics in Computational Intelligence.
 - *2026.07*: &nbsp;🎉 I made short research visits to Hiroshima University and the University of Tsukuba during a two-week period, hosted by Prof. Masaki Ogura and Prof. Masako Kishida, respectively.
@@ -185,6 +186,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 
 # 🥇 Honors and Awards
+- *2026* IEEE Control Systems Society Graduate Collaboration Fellowship
 - *2026* Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress.
 - *2026* Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC).
 - *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
