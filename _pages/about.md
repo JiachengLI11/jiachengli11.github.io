@@ -68,7 +68,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 **Finished/Submitted**
 13. **Jiacheng Li**,  Jason J. R. Liu, Themistoklis Charalambous, Yang Shi, and Peng Shi, &quot;Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation,&quot; 2026. 
 12. **Jiacheng Li**,  Jason J. R. Liu, James Lam, Yang Shi, Peng Shi, and Levente Kovacs, &quot;Cyber-Security of Networked Control Systems: Recent Advances and Future Trends,&quot; 2025.  
-11. **Jiacheng Li**, Masaki Ogura, Jason J. R. Liu, and Masako Kishida &quot;Farthest-Agent Targeting for Swarm Guidance: Design and Convergence Analysis,&quot; 2026. 
+11. **Jiacheng Li**, Masaki Ogura, Jason J. R. Liu, Masako Kishida, and Yang Shi, &quot;Farthest-Agent Targeting for Swarm Guidance: Design and Convergence Analysis,&quot; 2026. 
 10. **Jiacheng Li**,  Jason J. R. Liu, Masako Kishida, Simone Baldi, Hak-Keung Lam, and Peng Shi, &quot;Reputation-Based Distributed Interval Observer under Byzantine Attacks,&quot; 2025. 
 9. **Jiacheng Li**,  Wenjun Luo, Jason J. R. Liu,  Dengxiu Yu, Housheng Su, and James Lam,  &quot;Cloud-Based Security Control for Internet of UAV Swarm under Attacks: From Digital to Physical,&quot; 2025.  
 8. **Jiacheng Li**, Jason J. R. Liu, ChenChen Fan, Dapeng Li, and James Lam, &quot;Event-/Self-Triggering Cooperative Adaptive Cruise Control for Physical-/Twin-Vehicle Platoon Under Hybrid Attacks,&quot; 2024.  
