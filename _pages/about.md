@@ -244,15 +244,15 @@ I have been deeply involved in diverse research proposal development, including 
   <li>IEEE Transactions on Industrial Cyber-Physical Systems</li>
   <li>IEEE Transactions on Aerospace and Electronic Systems</li>
   <li>IEEE Transactions on Network and Service Management</li>
+  <li>IEEE Transactions on Computational Social Systems</li>
+  <li>IEEE Industrial Electronics Magazine</li>
+  <li>IEEE Control Systems Letters</li>
+  <li>Chaos, Solitons and Fractals</li>
 </ul>
 
 <details class="journal-reviewer-details">
   <summary><span class="journal-reviewer-more">Show more</span><span class="journal-reviewer-less">Show less</span></summary>
   <ul class="reviewer-list">
-  <li>IEEE Transactions on Computational Social Systems</li>
-  <li>IEEE Industrial Electronics Magazine</li>
-  <li>IEEE Control Systems Letters</li>
-  <li>Chaos, Solitons and Fractals</li>
   <li>Scientific Reports</li>
   <li>Engineering Applications of Artificial Intelligence</li>
   <li>Applied Mathematical Modelling</li>
