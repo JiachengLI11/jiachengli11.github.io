@@ -202,7 +202,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 # 💬 Talks
 
-- *2027.02* "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0) (Upcoming).
+- *2027.02* "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0), organized by the Early-Career Committee of the IEEE Control Systems Society Technical Committee on Security and Privacy (IEEE CSS TCSP) (Upcoming).
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.07* "<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
