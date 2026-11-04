@@ -11,8 +11,9 @@ body {
   background-color: #fff;
 }
 
-/* Keep the photograph separate from the text so only the backdrop fades. */
+/* The campus photo is temporarily hidden for the white homepage. */
 body::before {
+  display: none;
   content: "";
   position: fixed;
   inset: 0;
@@ -34,11 +35,36 @@ body::before {
 }
 
 .masthead {
-  background: linear-gradient(105deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.34) 52%, rgba(255, 255, 255, 0.12));
-  border-bottom-color: rgba(255, 255, 255, 0.45);
+  background: #fff;
+  border-bottom-color: #e5e7eb;
   box-shadow: 0 2px 14px rgba(40, 60, 80, 0.035);
-  -webkit-backdrop-filter: blur(14px);
-  backdrop-filter: blur(14px);
+}
+
+.page__content .journal-reviewer-list {
+  margin-bottom: 0.25em;
+}
+
+.journal-reviewer-details {
+  margin-bottom: 1em;
+}
+
+.journal-reviewer-details summary {
+  width: fit-content;
+  color: #244d83;
+  cursor: pointer;
+}
+
+.journal-reviewer-details summary span {
+  text-decoration: underline;
+}
+
+.journal-reviewer-details .journal-reviewer-less,
+.journal-reviewer-details[open] .journal-reviewer-more {
+  display: none;
+}
+
+.journal-reviewer-details[open] .journal-reviewer-less {
+  display: inline;
 }
 
 .masthead::after {
