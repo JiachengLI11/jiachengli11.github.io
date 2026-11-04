@@ -159,6 +159,8 @@ Wei Lu, **Jiacheng Li**, Huanhuan Qin, Lei Shu, and Aiguo Song
 Main works：
 - Dual-mode control method with unmanned driving and teleoperation.
 - Novel driving platform of autonomous tractor.
+
+Video of Teleoperation: [Watch video]({{ "/assets/tractor.mp4" | relative_url }})
 </div>
 </div>
 
@@ -200,6 +202,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 # 💬 Talks
 
+- "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.07* "<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
@@ -231,7 +234,52 @@ I have been deeply involved in diverse research proposal development, including 
 
 #  📚 Review Services
 **Active Journal Reviewer for**
-IEEE Transactions on Industrial Informatics, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Industrial Cyber-Physical Systems, IEEE Transactions on Aerospace and Electronic Systems,  IEEE Transactions on Network and Service Management, IEEE Transactions on Computational Social Systems, IEEE Industrial Electronics Magazine, IEEE Control Systems Letters, Chaos, Solitons and Fractals, Scientific Reports, Engineering Applications of Artificial Intelligence, Applied Mathematical Modelling, Defence Technology, ISA Transactions, Pattern Recognition, Knowledge-Based Systems, Acta Astronautica, Journal of the Franklin Institute, IET Control Theory & Applications, The Journal of Engineering, Journal of Zhejiang University-SCIENCE A, Transactions of the Institute of Measurement and Control, International Journal of Aerospace Engineering, Mathematical Modelling and Control, Neurocomputing, Drones, Franklin Open, Robotics and Autonomous Systems, Ain Shams Engineering Journal, Journal of Intelligent & Robotic Systems, Advances in Space Research, International Journal of Intelligent Robotics and Applications, Asian Journal of Control.
+
+<ul class="journal-reviewer-list">
+  <li>IEEE Transactions on Automatic Control</li>
+  <li>IEEE Transactions on Industrial Informatics</li>
+  <li>IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
+  <li>IEEE Transactions on Fuzzy Systems</li>
+</ul>
+
+<details class="journal-reviewer-details">
+  <summary><span class="journal-reviewer-more">Show more</span><span class="journal-reviewer-less">Show less</span></summary>
+  <ul>
+  <li>IEEE Transactions on Vehicular Technology</li>
+  <li>IEEE Transactions on Industrial Cyber-Physical Systems</li>
+  <li>IEEE Transactions on Aerospace and Electronic Systems</li>
+  <li>IEEE Transactions on Network and Service Management</li>
+  <li>IEEE Transactions on Computational Social Systems</li>
+  <li>IEEE Industrial Electronics Magazine</li>
+  <li>IEEE Control Systems Letters</li>
+  <li>Chaos, Solitons and Fractals</li>
+  <li>Scientific Reports</li>
+  <li>Engineering Applications of Artificial Intelligence</li>
+  <li>Applied Mathematical Modelling</li>
+  <li>Defence Technology</li>
+  <li>ISA Transactions</li>
+  <li>Pattern Recognition</li>
+  <li>Knowledge-Based Systems</li>
+  <li>Acta Astronautica</li>
+  <li>Journal of the Franklin Institute</li>
+  <li>IET Control Theory &amp; Applications</li>
+  <li>The Journal of Engineering</li>
+  <li>Journal of Zhejiang University-SCIENCE A</li>
+  <li>Transactions of the Institute of Measurement and Control</li>
+  <li>International Journal of Aerospace Engineering</li>
+  <li>Mathematical Modelling and Control</li>
+  <li>Neurocomputing</li>
+  <li>Drones</li>
+  <li>Franklin Open</li>
+  <li>Robotics and Autonomous Systems</li>
+  <li>Ain Shams Engineering Journal</li>
+  <li>Journal of Intelligent &amp; Robotic Systems</li>
+  <li>Advances in Space Research</li>
+  <li>International Journal of Intelligent Robotics and Applications</li>
+  <li>Asian Journal of Control</li>
+  </ul>
+</details>
+
  
   
 **Conference Reviewer for**
@@ -243,6 +291,6 @@ Chinese Automation Congress (CAC, 2021-2024), International Conference on Automa
 - *2025.01* I'm quite fond of reading the "<a href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te Ching</a>"(道德经), particularly the <a href="https://weread.qq.com/web/bookDetail/4d832d70718a6c904d88a58">version elucidated by Prof. Han Pengjie</a>—it's brimming with profound wisdom.
 - *2024.12*  I enjoy researching under <a href="https://fic.um.edu.mo/people/jasonliu/"> Dr. Liu's</a> supervision; he supports my exploration of interesting studies and provides ample opportunities and assistance.
 - Related Websites: <a href="https://jasoniusl.github.io/lab-web/">Intelligent Unmanned Systems Laboratory</a>, <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
-- Address: 1047, E11, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau, China.
 - *Footprints (Beyond Mainland China)*: <img src="https://flagcdn.com/16x12/hk.png" alt="Hong Kong flag"> Hong Kong (2023-), <img src="https://flagcdn.com/16x12/mo.png" alt="Macau flag"> Macau (2023-), <img src="https://flagcdn.com/16x12/sg.png" alt="Singapore flag" style="vertical-align:middle;"> Singapore (2025), <img src="https://flagcdn.com/16x12/au.png" alt="Australia flag"> Australia: Melbourne, Adelaide, Sydney (2025), <img src="https://flagcdn.com/16x12/ca.png" alt="Canada flag"> Canada: Vancouver, Victoria (2026), <img src="https://flagcdn.com/16x12/kr.png" alt="South Korea flag"> South Korea: Seoul, Busan (2026), <img src="https://flagcdn.com/16x12/tw.png" alt="Taiwan flag"> Taiwan (2026), <img src="https://flagcdn.com/16x12/id.png" alt="Indonesia flag"> Indonesia: Bali (2026), <img src="https://flagcdn.com/16x12/gb.png" alt="United Kingdom flag"> United Kingdom: London (2026), <img src="https://flagcdn.com/16x12/is.png" alt="Iceland flag"> Iceland: Reykjavík (2026), <img src="https://flagcdn.com/16x12/it.png" alt="Italy flag"> Italy: Milan (2026), 
 <img src="https://flagcdn.com/16x12/tr.png" alt="Türkiye flag"> Türkiye: Istanbul (2026), <img src="https://flagcdn.com/16x12/jp.png" alt="Japan flag"> Japan: Hiroshima, Tokyo, Tsukuba (2026).
+- Address: 1047, E11, Faculty of Information Science and Computing, University of Macau, Avenida da Universidade, Taipa, Macau 999078, China.
