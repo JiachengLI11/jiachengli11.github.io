@@ -111,7 +111,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 5. Wenjie Zhou, Shuo Chen, **Jiacheng Li**, Chenjun Liu, Wenjun Luo, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://www.sciencedirect.com/science/article/pii/S277318632500057X" target="_blank">Obstacle Avoidance Control for Cluster-Based  Unmanned Aerial Vehicle Formation with Multiple Constraints</a>,&quot; <i>Franklin Open</i>, vol. 11, pp. 100267, 2025. DOI: 10.1016/j.fraope.2025.100267 
 4. Zhikai Wang, Zhumu Fu, Zihao Wu, Chenqi Zhu, **Jiacheng Li**, &quot;<a class="dhtgD aw5Odc" href="https://link.springer.com/article/10.1007/s42405-023-00676-3" target="_blank">Three-Dimensional Cooperative Guidance Law Against Maneuvering Target with Time-Varying Communication Delays</a>,&quot; <i>International Journal of Aeronautical and Space Sciences</i>, vol. 25, no. 2, pp. 605-621, 2024. DOI: 10.1007/s42405-023-00676-3
 3. Mengjie Zeng, Shunming Li, Ranran Li, **Jiacheng Li**, Kun Xu, Xianglian Li, &quot;<a class="dhtgD aw5Odc" href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8dae" target="_blank">A Transfer Learning Fault Diagnosis Method Considering Nearest Neighbor Feature Constraints</a>,&quot; <i>Measurement Science and Technology</i>, vol. 34, p. 015114, 2023. DOI: 10.1088/1361-6501/ac8dae
-2. 黄号, 马文卉, **李家诚**, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法</a>,&quot; <i>清华大学学报（自然科学版)</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 (入选:领跑者5000——中国精品科技期刊顶尖学术论文) 
+2. 黄号, 马文卉, **李家诚**, 方洋旺,  &quot;<a class="dhtgD aw5Odc" href="https://www.sciopen.com/article/10.16511/j.cnki.qhdxxb.2023.27.001?issn=1000-0054" target="_blank">未知环境下无人机编队智能避障控制方法</a>,&quot; <i>清华大学学报（自然科学版)</i>, 2023. DOI: 10.16511/j.cnki.qhdxxb.2023.27.001 ([入选:领跑者5000——中国精品科技期刊顶尖学术论文](https://mp.weixin.qq.com/s?__biz=MzU3NzU1MjY5OQ==&mid=2247491573&idx=1&sn=b2ede5f5bd77914c5534b17bf1320a12)) 
 1. 曾梦洁, 李舜酩, 李冉冉, **李家诚**, 徐坤,  &quot;<a class="dhtgD aw5Odc" href="https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Egt6YzIwMjQwMzAxMxoIYTZwN2Fvc3I%3D" target="_blank">滚动轴承的堆叠稀疏判别自编码智能故障诊断方法</a>,&quot; <i>轴承</i>, 2022. DOI: 10.19533/j.issn1000-3762.2024.03.012
 0. Wenjie Zhou, **Jiacheng Li**,  Wenjun Luo, Zhiyuan Zhang, and Jason J. R. Liu, &quot;<a class="dhtgD aw5Odc" href="https://ieeexplore.ieee.org/document/11702181" target="_blank">An Improved APF Method for UAV Formation Control in Sudden Obstacle Environments</a>,&quot; <i>Asian Control Conference (ASCC)</i>, 2026, Bali, Indonesia. DOI: 10.1109/ASCC70886.2026.11702181 (Conference, Best Student Paper Nominee)  
 
@@ -131,7 +131,7 @@ Kong University of Science and Technology</a>, Hong Kong. (Host: <a href="https:
 
 
 	  
-**Highlight Works**
+<p class="highlight-works-heading"><strong>Highlight Works</strong></p>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE 2024</div><img src='images/CloudFogComputing.jpg' alt="sym" width="100%"></div></div>
@@ -190,9 +190,9 @@ I have been deeply involved in diverse research proposal development, including 
 
 # 🥇 Honors and Awards
 - *2026* [IEEE Control Systems Society Graduate Collaboration Fellowship](https://ieeecss.org/awards/ieee-control-systems-society-graduate-collaboration-fellowship)
-- *2026* [Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress](https://jasoniusl.github.io/lab-web/).
+- *2026* Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress.
 - *2026* [Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC)](https://controls.papercept.net/conferences/conferences/ASCC26/program/ASCC26_ContentListWeb_3.html#:~:text=An%20Improved%20APF%20Method%20for%20UAV%20Formation%20Control).
-- *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
+- *2025* [Frontrunner 5000: Top Articles in Outstanding S&T Journals of China](https://mp.weixin.qq.com/s?__biz=MzU3NzU1MjY5OQ==&mid=2247491573&idx=1&sn=b2ede5f5bd77914c5534b17bf1320a12)
 - *2023* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
 - *2018-2020* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition, etc.).
@@ -202,7 +202,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 # 💬 Talks
 
-- "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0) (Upcoming).
+- *2027.02* "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0) (Upcoming).
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.07* "<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
@@ -235,7 +235,7 @@ I have been deeply involved in diverse research proposal development, including 
 #  📚 Review Services
 **Active Journal Reviewer for**
 
-<ul class="journal-reviewer-list">
+<ul class="journal-reviewer-list reviewer-list">
   <li>IEEE Transactions on Automatic Control</li>
   <li>IEEE Transactions on Industrial Informatics</li>
   <li>IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
@@ -244,7 +244,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 <details class="journal-reviewer-details">
   <summary><span class="journal-reviewer-more">Show more</span><span class="journal-reviewer-less">Show less</span></summary>
-  <ul>
+  <ul class="reviewer-list">
   <li>IEEE Transactions on Vehicular Technology</li>
   <li>IEEE Transactions on Industrial Cyber-Physical Systems</li>
   <li>IEEE Transactions on Aerospace and Electronic Systems</li>
@@ -283,7 +283,14 @@ I have been deeply involved in diverse research proposal development, including 
  
   
 **Conference Reviewer for**
-Chinese Automation Congress (CAC, 2021-2024), International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems (2025), European Control Conference (ECC, 2026), Chinese Control Conference(CCC, 2026), Asian Control Conference (ASCC, 2026).
+
+<ul class="conference-reviewer-list reviewer-list">
+  <li>Chinese Automation Congress (CAC, 2021-2024)</li>
+  <li>International Conference on Automation-Intelligence-Safety/International Symposium on Autonomous Systems (2025)</li>
+  <li>European Control Conference (ECC, 2026)</li>
+  <li>Chinese Control Conference (CCC, 2026)</li>
+  <li>Asian Control Conference (ASCC, 2026)</li>
+</ul>
 
  
 
@@ -291,6 +298,6 @@ Chinese Automation Congress (CAC, 2021-2024), International Conference on Automa
 - *2025.01* I'm quite fond of reading the "<a href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te Ching</a>"(道德经), particularly the <a href="https://weread.qq.com/web/bookDetail/4d832d70718a6c904d88a58">version elucidated by Prof. Han Pengjie</a>—it's brimming with profound wisdom.
 - *2024.12*  I enjoy researching under <a href="https://fic.um.edu.mo/people/jasonliu/"> Dr. Liu's</a> supervision; he supports my exploration of interesting studies and provides ample opportunities and assistance.
 - Related Websites: <a href="https://jasoniusl.github.io/lab-web/">Intelligent Unmanned Systems Laboratory</a>, <a href="https://www.njaurobot.cn">Intelligent Robot Laboratory</a>.
+- Address: 1047, E11, Faculty of Information Science and Computing, University of Macau, Avenida da Universidade, Taipa, Macau 999078, China.
 - *Footprints (Beyond Mainland China)*: <img src="https://flagcdn.com/16x12/hk.png" alt="Hong Kong flag"> Hong Kong (2023-), <img src="https://flagcdn.com/16x12/mo.png" alt="Macau flag"> Macau (2023-), <img src="https://flagcdn.com/16x12/sg.png" alt="Singapore flag" style="vertical-align:middle;"> Singapore (2025), <img src="https://flagcdn.com/16x12/au.png" alt="Australia flag"> Australia: Melbourne, Adelaide, Sydney (2025), <img src="https://flagcdn.com/16x12/ca.png" alt="Canada flag"> Canada: Vancouver, Victoria (2026), <img src="https://flagcdn.com/16x12/kr.png" alt="South Korea flag"> South Korea: Seoul, Busan (2026), <img src="https://flagcdn.com/16x12/tw.png" alt="Taiwan flag"> Taiwan (2026), <img src="https://flagcdn.com/16x12/id.png" alt="Indonesia flag"> Indonesia: Bali (2026), <img src="https://flagcdn.com/16x12/gb.png" alt="United Kingdom flag"> United Kingdom: London (2026), <img src="https://flagcdn.com/16x12/is.png" alt="Iceland flag"> Iceland: Reykjavík (2026), <img src="https://flagcdn.com/16x12/it.png" alt="Italy flag"> Italy: Milan (2026), 
 <img src="https://flagcdn.com/16x12/tr.png" alt="Türkiye flag"> Türkiye: Istanbul (2026), <img src="https://flagcdn.com/16x12/jp.png" alt="Japan flag"> Japan: Hiroshima, Tokyo, Tsukuba (2026).
-- Address: 1047, E11, Faculty of Information Science and Computing, University of Macau, Avenida da Universidade, Taipa, Macau 999078, China.
