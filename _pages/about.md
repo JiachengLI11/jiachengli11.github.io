@@ -191,8 +191,8 @@ I have been deeply involved in diverse research proposal development, including 
 # 🥇 Honors and Awards
 - *2026* [IEEE Control Systems Society Graduate Collaboration Fellowship](https://ieeecss.org/awards/ieee-control-systems-society-graduate-collaboration-fellowship)
 - *2026* Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress.
-- *2026* [Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC)](https://controls.papercept.net/conferences/conferences/ASCC26/program/ASCC26_ContentListWeb_3.html#:~:text=An%20Improved%20APF%20Method%20for%20UAV%20Formation%20Control).
-- *2025* [Frontrunner 5000: Top Articles in Outstanding S&T Journals of China](https://mp.weixin.qq.com/s?__biz=MzU3NzU1MjY5OQ==&mid=2247491573&idx=1&sn=b2ede5f5bd77914c5534b17bf1320a12)
+- *2026* Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC).
+- *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
 - *2023* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
 - *2018-2020* Over 10 awards in robotics competitions at the provincial level and above (Includes China Robotics Competition, Jiangsu Provincial Robotics Competition, Internet Competition, etc.).
