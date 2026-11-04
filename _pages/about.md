@@ -160,7 +160,7 @@ Main works：
 - Dual-mode control method with unmanned driving and teleoperation.
 - Novel driving platform of autonomous tractor.
 
-Video of Teleoperation: [Watch video]({{ "/assets/tractor.mp4" | relative_url }})
+[Video of Teleoperation]({{ "/assets/tractor.mp4" | relative_url }})
 </div>
 </div>
 
