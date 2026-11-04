@@ -235,6 +235,10 @@ body::before {
 }
 
 @media (min-width: 925px) {
+  .contact-address {
+    font-size: 0.95em;
+  }
+
   .page__content .reviewer-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
