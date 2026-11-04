@@ -189,9 +189,9 @@ I have been deeply involved in diverse research proposal development, including 
 
 
 # 🥇 Honors and Awards
-- *2026* IEEE Control Systems Society Graduate Collaboration Fellowship
-- *2026* Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress.
-- *2026* Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC).
+- *2026* [IEEE Control Systems Society Graduate Collaboration Fellowship](https://ieeecss.org/awards/ieee-control-systems-society-graduate-collaboration-fellowship)
+- *2026* [Finalist of the Outstanding PhD Research Award, 23rd IFAC World Congress](https://jasoniusl.github.io/lab-web/).
+- *2026* [Finalist of the Best Student Paper, 15th Asian Control Conference (ASCC)](https://controls.papercept.net/conferences/conferences/ASCC26/program/ASCC26_ContentListWeb_3.html#:~:text=An%20Improved%20APF%20Method%20for%20UAV%20Formation%20Control).
 - *2025* Frontrunner 5000: Top Articles in Outstanding S&T Journals of China
 - *2023* Excellent Master's Thesis in Northwestern Polytechnical University (Only top 5%). 
 - *2020* Outstanding Graduate of Nanjing Agricultural University 2020 (Only top 10%).
@@ -202,7 +202,7 @@ I have been deeply involved in diverse research proposal development, including 
 
 # 💬 Talks
 
-- "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0).
+- "[From Reputation to Resilience: Coordination in Cyber-Physical Systems](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/upcoming-events?authuser=0)", at the [Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home?authuser=0) (Upcoming).
 - *2026.08* "Resilient Distributed Control for Networked Systems under Adversarial Environments", at the session of PhD Forum, 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.08* "Safety Control of Self-organized Swarm Coordination under Obstacles and Adversaries", 23rd IFAC World Congress, Busan, Republic of Korea.
 - *2026.07* "<a href="https://csslab.jp/en/info/1622/">Distributed Event-Triggered Interval Estimation Against Malicious Nodes via Reputation</a>", at the <a href="https://csslab.jp/">Complex Systems Science Laboratory</a>, Hiroshima University, Japan, chaired by <a href="https://csslab.jp/en/bio/"> Prof. Masaki Ogura</a>.
