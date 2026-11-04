@@ -1,5 +1,5 @@
 :root {
-  --campus-background-opacity: 0.65;
+  --campus-background-opacity: 0.35;
   --campus-panel-opacity: 0.96;
   --campus-accent: #376e9e;
 }
@@ -8,12 +8,11 @@ body {
   position: relative;
   isolation: isolate;
   min-height: 100vh;
-  background-color: #f3f8f3;
+  background-color: #fff;
 }
 
-/* The campus photo is temporarily hidden for the white homepage. */
+/* Keep the campus photograph soft without fading the page content. */
 body::before {
-  display: none;
   content: "";
   position: fixed;
   inset: 0;
@@ -35,9 +34,11 @@ body::before {
 }
 
 .masthead {
-  background: #f3f8f3;
+  background: linear-gradient(105deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.34) 52%, rgba(255, 255, 255, 0.12));
   border-bottom-color: #e5e7eb;
   box-shadow: 0 2px 14px rgba(40, 60, 80, 0.035);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
 }
 
 .page__content .journal-reviewer-list {
